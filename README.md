@@ -1,2 +1,2 @@
-# covenas
-Coveñas Diving Co Website
+# Coveñas Diving Co Website
+
