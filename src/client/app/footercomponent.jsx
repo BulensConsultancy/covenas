@@ -89,10 +89,9 @@ return (
 							<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed elit diam nonummy ad minim.</p>
 						</div>
 						<ul class="c-socials">
-							<li><a href="#"><i class="icon-social-facebook"></i></a></li>
-							<li><a href="#"><i class="icon-social-twitter"></i></a></li>
+							<li><a href="https://www.facebook.com/Covenasdivingco/"><i class="icon-social-facebook"></i></a></li>							
 							<li><a href="#"><i class="icon-social-youtube"></i></a></li>
-							<li><a href="#"><i class="icon-social-tumblr"></i></a></li>
+							<li><a href="https://www.instagram.com/covenasdivingco"><i class="icon-social-instagram"></i></a></li>
 						</ul>
 						<ul class="c-address">
 							<li><i class="icon-pointer c-theme-font"></i> Calle 4 # 3-85 apartamento 203, Coveñas, Sucre, Colombia</li>
