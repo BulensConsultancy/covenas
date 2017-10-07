@@ -29,21 +29,23 @@ return (
 				<nav class="c-mega-menu c-pull-right c-mega-menu-dark c-mega-menu-dark-mobile c-fonts-uppercase c-fonts-bold">
 				<ul class="nav navbar-nav c-theme-nav"> 
 					<li class="c-active">
-						<a href="index.html" class="c-link dropdown-toggle">Home<span class="c-arrow c-toggler"></span></a>														
+						<a href="index.html" class="c-link dropdown-toggle">Home</a>														
 					</li>
-					<li class="c-menu-type-classic">
-						<a href="environment.html" class="c-link dropdown-toggle">Environment<span class="c-arrow c-toggler"></span></a>
-					
+					<li>
+						<a href="environment.html" class="c-link dropdown-toggle">Environment</a>					
 					</li>
-					<li >
-						<a href="about.html" class="c-link dropdown-toggle">About Us<span class="c-arrow c-toggler"></span></a>													
+					<li>
+						<a href="about.html" class="c-link dropdown-toggle">About Us</a>													
 					</li>
-					<li >
-						<a href="courses.html" class="c-link dropdown-toggle">Courses<span class="c-arrow c-toggler"></span></a>													
+					<li>
+						<a href="courses.html" class="c-link dropdown-toggle">Courses</a>													
 					</li>
-					<li >
-						<a href="gallery.html" class="c-link dropdown-toggle">Gallery<span class="c-arrow c-toggler"></span></a>
-					</li>																			
+					<li>
+						<a href="gallery.html" class="c-link dropdown-toggle">Gallery</a>
+					</li>	
+					<li>
+						<a href="contact.html" class="c-link dropdown-toggle">Contact</a>
+					</li>						
 				</ul>
 			</nav>											
 			</div>				
