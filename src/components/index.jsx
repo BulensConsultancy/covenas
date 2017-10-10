@@ -6,14 +6,6 @@ import FooterComponent from './footercomponent.jsx';
 import { Router, Route, Switch } from 'react-router'
 
 
-class App extends React.Component {
-  render () {
-    return (     
-        <HeaderComponent />    
-    );
-  }
-}
-
 class Footer extends React.Component {
   render () {
     return (     

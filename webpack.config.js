@@ -6,6 +6,11 @@ var APP_DIR = path.resolve(__dirname, 'src/components');
 
 var config = {	
 	entry: APP_DIR + '/index.jsx',
+	
+	entry : {
+		index: APP_DIR + '/index.jsx',
+		gallery: APP_DIR + '/gallery.jsx'
+	},  
 	module : {
 		loaders : [{
 			test : /\.jsx?/,
@@ -13,10 +18,11 @@ var config = {
 			loader : 'babel-loader'
 		}]
 	},
+	
 	output: {
 		path: BUILD_DIR,
-		filename: 'app.js'
-	}
+		filename: '[name].js'
+	},	
 };
 
 module.exports = config;
