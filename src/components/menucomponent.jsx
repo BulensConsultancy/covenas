@@ -14,9 +14,9 @@ return (
 				<div className="c-navbar-wrapper clearfix">
 					<div className="c-brand c-pull-left">
 						<a href="index.html" className="c-logo">
-							<img src="assets/base/img/layout/logos/logo-5.png" alt="JANGO" className="c-desktop-logo" />
-							<img src="assets/base/img/layout/logos/logo-5.png" alt="JANGO" className="c-desktop-logo-inverse" />
-							<img src="assets/base/img/layout/logos/logo-5.png" alt="JANGO" className="c-mobile-logo" />
+							<img src="assets/base/img/layout/logos/logo-5.png" alt="Coveñas Diving" className="c-desktop-logo" />
+							<img src="assets/base/img/layout/logos/logo-5.png" alt="Coveñas Diving" className="c-desktop-logo-inverse" />
+							<img src="assets/base/img/layout/logos/logo-5.png" alt="Coveñas Diving" className="c-mobile-logo" />
 						</a>
 					
 						<button className="c-hor-nav-toggler" type="button" data-target=".c-mega-menu">
