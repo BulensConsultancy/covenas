@@ -1,3 +1,5 @@
+import React from 'react';
+
 const aboutGallery ={
   backgroundImage: "url('src/assets/img/content/gallery/014.jpg')"
 };
