@@ -76,6 +76,12 @@ const Contact = () => (
   </div>
 )
 
+const Environment = () => (
+  <div>
+    <h2>Environment</h2>
+  </div>
+)
+
 const Home = () => (
   <div>
     <h2>Home</h2>
