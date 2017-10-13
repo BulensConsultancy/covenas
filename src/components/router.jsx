@@ -319,22 +319,22 @@ const Courses = () => (
 					<div className="col-md-7 col-sm-12">
 					  <ul className="c-photos">
 						<li className="col-md-4 col-sm-4">
-						  <img className="img-responsive" src="assets/img/content/gallery/001.jpg" alt="" />
+						  <img className="img-responsive" src="src/assets/img/content/gallery/001.jpg" alt="" />
 						</li>
 						<li className="col-md-4 col-sm-4">
-						  <img className="img-responsive" src="assets/img/content/gallery/006.jpg" alt="" />
+						  <img className="img-responsive" src="src/assets/img/content/gallery/006.jpg" alt="" />
 						</li>
 						<li className="col-md-4 col-sm-4">
-						  <img className="img-responsive" src="assets/img/content/gallery/10.jpg" alt="" />
+						  <img className="img-responsive" src="src/assets/img/content/gallery/10.jpg" alt="" />
 						</li>
 						<li className="col-md-4 col-sm-4">
-						  <img className="img-responsive" src="assets/img/content/gallery/12.jpg" alt="" />
+						  <img className="img-responsive" src="src/assets/img/content/gallery/12.jpg" alt="" />
 						</li>
 						<li className="col-md-4 col-sm-4">
-						  <img className="img-responsive" src="assets/img/content/gallery/014.jpg" alt="" />
+						  <img className="img-responsive" src="src/assets/img/content/gallery/014.jpg" alt="" />
 						</li>
 						<li className="col-md-4 col-sm-4">
-						  <img className="img-responsive" src="assets/img/content/gallery/015.jpg" alt="" />
+						  <img className="img-responsive" src="src/assets/img/content/gallery/015.jpg" alt="" />
 						</li>
 					  </ul>
 					</div>
@@ -355,22 +355,22 @@ const Courses = () => (
 					<div className="col-md-7">
 					  <ul className="c-photos">
 						<li className="col-md-4 col-sm-4">
-						  <img className="img-responsive" src="assets/img/content/gallery/001.jpg" alt="" />
+						  <img className="img-responsive" src="src/assets/img/content/gallery/001.jpg" alt="" />
 						</li>
 						<li className="col-md-4 col-sm-4">
-						  <img className="img-responsive" src="assets/img/content/gallery/006.jpg" alt=""/>
+						  <img className="img-responsive" src="src/assets/img/content/gallery/006.jpg" alt=""/>
 						</li>
 						<li className="col-md-4 col-sm-4">
-						  <img className="img-responsive" src="assets/img/content/gallery/10.jpg" alt="" />
+						  <img className="img-responsive" src="src/assets/img/content/gallery/10.jpg" alt="" />
 						</li>
 						<li className="col-md-4 col-sm-4">
-						  <img className="img-responsive" src="assets/img/content/gallery/12.jpg" alt="" />
+						  <img className="img-responsive" src="src/assets/img/content/gallery/12.jpg" alt="" />
 						</li>
 						<li className="col-md-4 col-sm-4">
-						  <img className="img-responsive" src="assets/img/content/gallery/014.jpg" alt="" />
+						  <img className="img-responsive" src="src/assets/img/content/gallery/014.jpg" alt="" />
 						</li>
 						<li className="col-md-4 col-sm-4">
-						  <img className="img-responsive" src="assets/img/content/gallery/015.jpg" alt="" />
+						  <img className="img-responsive" src="src/assets/img/content/gallery/015.jpg" alt="" />
 						</li>
 					  </ul>
 					</div>
@@ -445,22 +445,22 @@ const Courses = () => (
 					<div className="col-md-7">
 					  <ul className="c-photos">
 						<li className="col-md-4 col-sm-4">
-						  <img className="img-responsive" src="assets/img/content/gallery/001.jpg" alt="" />
+						  <img className="img-responsive" src="src/assets/img/content/gallery/001.jpg" alt="" />
 						</li>
 						<li className="col-md-4 col-sm-4">
-						  <img className="img-responsive" src="assets/img/content/gallery/006.jpg" alt="" />
+						  <img className="img-responsive" src="src/assets/img/content/gallery/006.jpg" alt="" />
 						</li>
 						<li className="col-md-4 col-sm-4">
-						  <img className="img-responsive" src="assets/img/content/gallery/10.jpg" alt="" />
+						  <img className="img-responsive" src="src/assets/img/content/gallery/10.jpg" alt="" />
 						</li>
 						<li className="col-md-4 col-sm-4">
-						  <img className="img-responsive" src="assets/img/content/gallery/12.jpg" alt="" />
+						  <img className="img-responsive" src="src/assets/img/content/gallery/12.jpg" alt="" />
 						</li>
 						<li className="col-md-4 col-sm-4">
-						  <img className="img-responsive" src="assets/img/content/gallery/014.jpg" alt="" />
+						  <img className="img-responsive" src="src/assets/img/content/gallery/014.jpg" alt="" />
 						</li>
 						<li className="col-md-4 col-sm-4">
-						  <img className="img-responsive" src="assets/img/content/gallery/015.jpg" alt="" />
+						  <img className="img-responsive" src="src/assets/img/content/gallery/015.jpg" alt="" />
 						</li>
 					  </ul>
 					</div>
@@ -501,22 +501,22 @@ const Courses = () => (
 					<div className="col-md-7">
 					  <ul className="c-photos">
 						<li className="col-md-4 col-sm-4">
-						  <img className="img-responsive" src="assets/img/content/gallery/001.jpg" alt="" />
+						  <img className="img-responsive" src="src/assets/img/content/gallery/001.jpg" alt="" />
 						</li>
 						<li className="col-md-4 col-sm-4">
-						  <img className="img-responsive" src="assets/img/content/gallery/006.jpg" alt="" />
+						  <img className="img-responsive" src="src/assets/img/content/gallery/006.jpg" alt="" />
 						</li>
 						<li className="col-md-4 col-sm-4">
-						  <img className="img-responsive" src="assets/img/content/gallery/10.jpg" alt="" />
+						  <img className="img-responsive" src="src/assets/img/content/gallery/10.jpg" alt="" />
 						</li>
 						<li className="col-md-4 col-sm-4">
-						  <img className="img-responsive" src="assets/img/content/gallery/12.jpg" alt="" />
+						  <img className="img-responsive" src="src/assets/img/content/gallery/12.jpg" alt="" />
 						</li>
 						<li className="col-md-4 col-sm-4">
-						  <img className="img-responsive" src="assets/img/content/gallery/014.jpg" alt="" />
+						  <img className="img-responsive" src="src/assets/img/content/gallery/014.jpg" alt="" />
 						</li>
 						<li className="col-md-4 col-sm-4">
-						  <img className="img-responsive" src="assets/img/content/gallery/015.jpg" alt="" />
+						  <img className="img-responsive" src="src/assets/img/content/gallery/015.jpg" alt="" />
 						</li>
 					  </ul>
 					</div>
