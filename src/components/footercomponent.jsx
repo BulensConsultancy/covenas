@@ -1,4 +1,4 @@
-const Courses = () => (
+const Footer = () => (
 	<div>
 		<div className="c-prefooter">
 		<div className="container">
