@@ -10,6 +10,7 @@ var config = {
 	entry : {
 		index: APP_DIR + '/index.jsx',
 		index2: APP_DIR + '/index2.jsx',
+		router: APP_DIR + '/router.jsx',
 		gallery: APP_DIR + '/gallery.jsx'
 	},  
 	module : {
