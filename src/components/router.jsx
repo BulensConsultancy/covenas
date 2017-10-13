@@ -199,7 +199,7 @@ const About = () => (
 		  </div>
 	   </div>
 	</div>
-	<div className="c-content-box c-size-lg c-bg-parallax" style={{"background-image": url("assets/img/content/gallery/014.jpg")}}>
+	<div className="c-content-box c-size-lg c-bg-parallax" style={{"background-image: url('assets/img/content/gallery/014.jpg')"}}>
 	   <div className="container">
 		  <div className="c-content-testimonials-1" data-slider="owl">
 			 <div className="c-content-title-1">
