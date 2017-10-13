@@ -6637,7 +6637,7 @@ label.control-label {
     content: ''; }
 
 .tparrows.circle {
-  background-image: url(../img/content/line-icons/white.png);
+  background-image: url(../assets/img/content/line-icons/white.png);
   display: inline-block;
   width: 60px;
   height: 60px;

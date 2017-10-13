@@ -6,6 +6,14 @@ import FooterComponent from './footercomponent.jsx';
 import { Router, Route, Switch } from 'react-router'
 
 
+class App extends React.Component {
+  render () {
+    return (     
+        <MenuComponent />    
+    );
+  }
+}
+
 class Footer extends React.Component {
   render () {
     return (     
@@ -14,13 +22,5 @@ class Footer extends React.Component {
   }
 }
 
-class PageApp extends React.Component {
-  render () {
-    return (     
-        <MenuComponent />    
-    );
-  }
-}
-
-render(<PageApp/>, document.getElementById('pageheader'));
+render(<App/>, document.getElementById('pageheader'));
 render(<Footer/>, document.getElementById('footer'));

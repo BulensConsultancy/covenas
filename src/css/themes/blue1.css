@@ -308,7 +308,7 @@ a {
   border-color: #6e8cd7 !important; }
 
 .c-content-line-icon.c-theme {
-  background-image: url(../../img/content/line-icons/blue1.png); }
+  background-image: url(../../assets/img/content/line-icons/blue1.png); }
 
 .c-content-list-1.c-theme.c-separator-dot > li:before,
 .c-content-list-1.c-theme > li:before {
@@ -330,7 +330,7 @@ a {
 
 .c-content-tab-2.c-theme > ul > li.active > a > .c-content-line-icon,
 .c-content-tab-2.c-theme > ul > li:hover > a > .c-content-line-icon {
-  background-image: url(../../img/content/line-icons/blue1.png); }
+  background-image: url(../../aseets/img/content/line-icons/blue1.png); }
 
 .c-content-tab-5.c-theme .c-nav-tab > li.active > a,
 .c-content-tab-5.c-theme .c-nav-tab > li a:hover {
