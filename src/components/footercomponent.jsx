@@ -1,13 +1,4 @@
-import React from 'react';
-
-class FooterComponent extends React.Component {
-
-constructor(props) {
-super(props);
-}
-
-render() {
-return (
+const Courses = () => (
 	<div>
 		<div className="c-prefooter">
 		<div className="container">
@@ -67,8 +58,4 @@ return (
 		</div>
 	</div>	
 </div>	
-	);
-}
-}
-
-export default FooterComponent;
+);

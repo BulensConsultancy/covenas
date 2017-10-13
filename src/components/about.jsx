@@ -1,12 +1,8 @@
-import React from 'react';
-
 const aboutGallery ={
   backgroundImage: "url('src/assets/img/content/gallery/014.jpg')"
 };
 
-export default class About extends React.Component {
-	render () {
-		return ( 
+const About = () => (
 			<div>
 			<div className="c-layout-page">
 			   <div className="c-content-box c-size-md c-bg-white">
@@ -191,6 +187,4 @@ export default class About extends React.Component {
 			   </div>
 			</div>
 			</div>
-		)
-	}
-}
+)
