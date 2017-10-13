@@ -70,10 +70,4 @@ const Home = () => (
   </div>
 )
 
-
-
-
-
-
-
 export default CovenasRouter
