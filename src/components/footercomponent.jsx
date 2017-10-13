@@ -1,4 +1,4 @@
-const Footer = () => (
+const FooterComponent = () => (
 	<div>
 		<div className="c-prefooter">
 		<div className="container">
