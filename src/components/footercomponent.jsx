@@ -40,7 +40,7 @@ return (
 						</div>
 						<ul className="c-socials">
 							<li><a href="https://www.facebook.com/Covenasdivingco/"><i className="fa fa-facebook"></i></a></li>							
-							<li><a href="#"><i className="fa fa-youtube"></i></a></li>
+							<li><a href="https://www.youtube.com/channel/UCrR50DUYpghgRUn8bopKUHA"><i className="fa fa-youtube"></i></a></li>
 							<li><a href="https://www.instagram.com/covenasdivingco"><i className="fa fa-instagram"></i></a></li>
 						</ul>
 						<ul className="c-address">

@@ -7,7 +7,7 @@ import FooterComponent from './footercomponent.jsx';
 class App extends React.Component {
   render () {
     return (     
-        <MenuComponent />    
+        <MenuComponent activePage="index" />    
     );
   }
 }

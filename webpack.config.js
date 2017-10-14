@@ -9,9 +9,13 @@ var config = {
 	
 	entry : {
 		index: APP_DIR + '/index.jsx',
+		environment: APP_DIR + '/environment.jsx',
+		about: APP_DIR + '/about.jsx',
+		courses: APP_DIR + '/courses.jsx',
+		gallery: APP_DIR + '/gallery.jsx',
+		contact: APP_DIR + '/contact.jsx',
 		index2: APP_DIR + '/index2.jsx',
-		router: APP_DIR + '/router.jsx',
-		gallery: APP_DIR + '/gallery.jsx'
+		router: APP_DIR + '/router.jsx',		
 	},  
 	module : {
 		loaders : [{

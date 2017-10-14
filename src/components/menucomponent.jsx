@@ -5,7 +5,7 @@ class MenuComponent extends React.Component {
 	super(props);
 	}
 
-	render() {
+	render() {		
 		return (
 			<header className="c-layout-header c-layout-header-4 c-layout-header-default-mobile" data-minimize-offset="80">		
 				<div className="c-navbar">
@@ -25,25 +25,13 @@ class MenuComponent extends React.Component {
 								</button>																				
 						</div>								
 						<nav className="c-mega-menu c-pull-right c-mega-menu-dark c-mega-menu-dark-mobile c-fonts-uppercase c-fonts-bold">
-							<ul className="nav navbar-nav c-theme-nav"> 
-								<li className="c-active">
-									<a href="index.html" className="c-link dropdown-toggle">Home</a>														
-								</li>
-								<li>
-									<a href="environment.html" className="c-link dropdown-toggle">Environment</a>					
-								</li>
-								<li>
-									<a href="about.html" className="c-link dropdown-toggle">About Us</a>													
-								</li>
-								<li>
-									<a href="courses.html" className="c-link dropdown-toggle">Courses</a>													
-								</li>
-								<li>
-									<a href="gallery.html" className="c-link dropdown-toggle">Gallery</a>
-								</li>	
-								<li>
-									<a href="contact.html" className="c-link dropdown-toggle">Contact</a>
-								</li>						
+							<ul className="nav navbar-nav c-theme-nav"> 	
+								 <MenuItem isActivePage={this.props.activePage == "index"} url="index.html" text="Home" />
+								 <MenuItem isActivePage={this.props.activePage == "environment"} url="environment.html" text="Environment" />
+								 <MenuItem isActivePage={this.props.activePage == "about"} url="about.html" text="About Us" />
+								 <MenuItem isActivePage={this.props.activePage == "courses"} url="courses.html" text="Courses" />
+								 <MenuItem isActivePage={this.props.activePage == "gallery"} url="gallery.html" text="Gallery" />
+								 <MenuItem isActivePage={this.props.activePage == "contact"} url="contact.html" text="Contact" />												
 							</ul>
 						</nav>											
 						</div>				
@@ -53,6 +41,23 @@ class MenuComponent extends React.Component {
 			
 		);
 	}
+}
+
+function MenuItem(props) {
+if (props.isActivePage) {
+	return (
+		<li className="c-active">
+			<a href={props.url} className="c-link dropdown-toggle">{props.text}</a>														
+		</li>
+	)
+}
+else {
+	return (	
+		<li>
+			<a href={props.url} className="c-link dropdown-toggle">{props.text}</a>														
+		</li>
+	  );
+	} 
 }
 
 export default MenuComponent;
