@@ -45,7 +45,7 @@ return (
 						</ul>
 						<ul className="c-address">
 							<li><i className="icon-pointer c-theme-font"></i> Calle 4 # 3-85 apartamento 203, Coveñas, Sucre, Colombia</li>
-							<li><i className="icon-call-end c-theme-font"></i> +1800 1234 5678</li>
+							<li><i className="icon-call-end c-theme-font"></i> (+57) 3205146585</li>
 							<li><i className="icon-envelope c-theme-font"></i> info@covenasdivingco.com</li>
 						</ul>
 					</div>
