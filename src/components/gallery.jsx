@@ -17,7 +17,7 @@ class Footer extends React.Component {
 class App extends React.Component {
   render () {
     return (     
-        <MenuComponent activePage="courses" />    
+        <MenuComponent activePage="gallery" />    
     );
   }
 }
