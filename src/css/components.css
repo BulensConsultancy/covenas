@@ -4277,7 +4277,7 @@ h1 {
 @media (min-width: 992px) {
   /* 992px */
   .c-layout-header.c-layout-header-4 {
-    background: none;
+    background: #ffffff;
     border-bottom: 0; }
     .c-layout-header.c-layout-header-4 .c-navbar {
       background: none; }
