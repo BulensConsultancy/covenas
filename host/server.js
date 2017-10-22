@@ -4,21 +4,13 @@
 // ==============================================
 
 var express = require('express');
-var app     = express();
-var port    = 	process.env.PORT || 8080;
+var app = express();
+var port = 	process.env.PORT || 8080;
 var path = require('path');
-
 var public = __dirname + "/public/";
 
 // ROUTES
 // ==============================================
-
-// sample route with a route the way we're used to seeing it
-app.get('/sample', function(req, res) {
-	res.send('this is a sample!');	
-});
-
-// we'll create our routes here
 
 // Get an instance of router
 var router = express.Router();
@@ -33,27 +25,32 @@ router.use(function(req, res, next) {
 	next();	
 });
 
-// home page route (http://localhost:8080)
+// Home page route (http://localhost:8080)
 router.get('/', function(req, res) {
     res.sendFile(path.join(public + "index.html"));
 });
 
+// About page route (http://localhost:8080)
 router.get('/about', function(req, res) {
     res.sendFile(path.join(public + "about.html"));
 });
 
+// Environment page route (http://localhost:8080)
 router.get('/environment', function(req, res) {
     res.sendFile(path.join(public + "environment.html"));
 });
 
+// Courses page route (http://localhost:8080)
 router.get('/courses', function(req, res) {
     res.sendFile(path.join(public + "courses.html"));
 });
 
+// Gallery page route (http://localhost:8080)
 router.get('/gallery', function(req, res) {
     res.sendFile(path.join(public + "gallery.html"));
 });
 
+// Contact page route (http://localhost:8080)
 router.get('/contact', function(req, res) {
     res.sendFile(path.join(public + "contact.html"));
 });
@@ -64,4 +61,4 @@ app.use(express.static('public'))
 // START THE SERVER
 // ==============================================
 app.listen(port);
-console.log('Magic happens on port ' + port);
+console.log('Running web server on port ' + port);
