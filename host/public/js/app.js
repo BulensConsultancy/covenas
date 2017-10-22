@@ -29,6 +29,29 @@ var App = function() {
         if (isIE) {
             $('html').addClass('ie'); // detect IE10 version
         }
+		
+		$("#lngDutch").click(function() {				
+			setLanguage('nl');
+		});
+		
+		$("#lngEnglish").click(function()  {			
+			setLanguage('en');
+		});
+		
+		$("#lngSpanish").click(function()  {			
+			setLanguage('es');
+		});
+				
+		$("#lngPortugese").click(function()  {			
+			setLanguage('es');
+		});
+			
+		function setLanguage(language){
+			Cookies.set('language', language)			
+			$("[data-localize]").localize("js/resources", { language: language });
+		}
+		
+		$("[data-localize]").localize("js/resources", { language: Cookies.get('language') || "en" });
     };
 
     // runs callback functions set by Jango.addResponsiveHandler().
