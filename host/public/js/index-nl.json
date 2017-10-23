@@ -1,0 +1,26 @@
+{
+	"nav": {
+		"home": "Home",
+		"environment": "Omgeving",
+		"about": "Over ons",
+		"courses": "Opleidingen",
+		"gallery": "Gallerij",
+		"contact": "Contact",
+		"language": "Taal"
+	},
+	"languages": {
+		"dutch": "Nederlands",
+		"english": "Engels",
+		"spanish":"Spaans",
+		"german":"Duits",
+		"french": "Frans",
+		"portugese":"Portugees"		
+	},
+	"about": {
+		"title": "Over ons"
+	},
+	"slides": {
+		"slide1": "Ontdek SCUBA duiken",
+		"slide2": "Het beste duikcentrum in de omgeving!"
+	}
+}

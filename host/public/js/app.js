@@ -9,11 +9,12 @@ var App = function() {
     var isIE9 = false;
     var isIE10 = false;
     var isIE = false;
-
+	this.p = '';
     var resizeHandlers = [];
 
     // initializes main settings
-    var handleInit = function() {
+    var handleInit = function(page) {
+		var me = this;
         isIE9 = !!navigator.userAgent.match(/MSIE 9.0/);
         isIE10 = !!navigator.userAgent.match(/MSIE 10.0/);        
         isIE = navigator.userAgent.indexOf("MSIE ") > -1 || navigator.userAgent.indexOf("Trident/") > -1;
@@ -48,10 +49,10 @@ var App = function() {
 			
 		function setLanguage(language){
 			Cookies.set('language', language)			
-			$("[data-localize]").localize("js/resources", { language: language });
+			$("[data-localize]").localize("js/" + page, { language: language });
 		}
 		
-		$("[data-localize]").localize("js/resources", { language: Cookies.get('language') || "en" });
+		$("[data-localize]").localize("js/" + page, { language: Cookies.get('language') || "en" });
     };
 
     // runs callback functions set by Jango.addResponsiveHandler().
@@ -277,14 +278,14 @@ var App = function() {
     return {
 
         //main function to initiate the theme
-        init: function() {
+        init: function(page) {			
             //IMPORTANT!!!: Do not modify the core handlers call order.
 
             //Core handlers
             handleHeight();
             this.addResizeHandler(handleHeight); // handle auto calculating height on window resize
 
-            handleInit(); // initialize core variables
+            handleInit(page); // initialize core variables
             handleOnResize(); // set and handle responsive    
 
             //UI Component handlers            
