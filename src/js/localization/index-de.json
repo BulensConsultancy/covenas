@@ -1,0 +1,91 @@
+{
+	"nav": {
+		"home": "Zuhause",
+		"environment": "Umwelt",
+		"about": "Über uns",
+		"courses": "Kurse",
+		"gallery": "Galerie",
+		"contact": "Kontakt",
+		"language": "Sprache"
+	},
+	"languages": {
+		"dutch": "Niederländisch",
+		"english": "Englisch",
+		"spanish": "Spanisch",
+		"german": "Deutsch",
+		"french": "Französisch",
+		"portugese": "Portugiesisch"
+	},
+	"slides": {
+		"slide1": "Entdecke SCUBA Tauchen",
+		"slide2": "Das beste Tauchcenter der Stadt!"
+	},
+	"about": {
+		"title": "Über uns",
+		"section1": "Bei Coveñas Diving lieben wir das Tauchen und möchten diese wunderbare Region mit Ihnen teilen! Unsere erfahrenen Tauchlehrer sind bestens geschult, sicherheitsbewusst und aufgeregt, um dies zu einem großartigen Taucherlebnis für Sie zu machen, egal ob Sie ein erfahrener Taucher oder ein Anfänger sind.",
+		"section2": "Hier tauchen wir in kleinen Gruppen mit ähnlichen Erfahrungsstufen (Gruppen von 4 (oder weniger) Tauchern pro Tauchlehrer), um sowohl Sicherheit als auch Spaß zu maximieren!"
+	},
+	"services": {
+		"title": "Unsere Dienstleistungen",
+		"service1": {
+			"title": "PADI Training",
+			"description": "Ob Sie neu oder erfahren sind, wir haben Kurse, die neue Abenteuer erwarten!"
+		},
+		"service2": {
+			"title": "Individuelle Reisen",
+			"description": "Wir können Ausflüge nach Ihren Wünschen gestalten!"
+		},
+		"service3": {
+			"title": "Fun-Tauchgänge",
+			"description": "Wir bringen Sie zu den besten Tauchplätzen der Region!"
+		},
+		"service4": {
+			"title": "Gehen Sie professionell",
+			"description": "Bereit, Tauchmeister zu sein?"
+		}
+	},
+	"testimonials": {
+		"title": "Kundenbewertungen",
+		"description": "Sehen Sie, was einige unserer Kunden über uns sagen",
+		"reviews": {
+			"review1": {
+				"text": "Während des Studienteils und des praktischen Teils im Pool war Guillermo sehr professionell und beruhigend, was es mir leicht machte, mich zu entspannen und einfach nur Spaß zu haben. Außerdem ist er ein cooler und echter Typ, der dafür sorgt, dass Sie eine großartige Erfahrung haben.",
+				"person": "Mariana from Dänemark"
+			},
+			"review2": {
+				"text": "Ich ging nach Kolumbien, um meinen Kurs und meine Zertifizierung in Open Waters zu machen. Auf Empfehlung habe ich mich mit Guillermo in Verbindung gesetzt. Er gab mir viel Vertrauen und Vertrauen in den vorherigen Vortrag. Seine gute Laune und Veranlagung machte diese Jordanier unglaublich.",
+				"person": "Leo from Argentinien"
+			},
+			"review3": {
+				"text": "Guillermo schafft es, Professionalität und Spaß perfekt auszubalancieren. Sein Wissen über Tauchen und Sicherheit sowie sein Engagement, bei jedem Kurs hohe Standards zu halten, machen ihn zum Inbegriff von Exzellenz. Ich kann ihn nicht genug empfehlen!",
+				"person": "Apoorva from Neuseeland"
+			},
+			"review4": {
+				"text": "Ich hatte das Glück, Guillermo kennenzulernen, ein ausgezeichneter Lehrer, der mir die Techniken zeigte, um den Sport sicher zu entwickeln, aber noch wichtiger, er zeigte mir seine Leidenschaft für diese Unterwasserwelt.",
+				"person": "Juan Gabriel from Kolumbien"
+			},
+			"review5": {
+				"text": "Guillermo ist ein unglaublicher Lehrer. Er ist sehr professionell, ruhig und geduldig, hat aber auch Spaß! Er hat mich in jeder Situation wohlgefühlt. Er hat ein großes Wissen und weiß es zu teilen! Ich war die einzige Person, die den Kurs zu der Zeit besuchte, so dass die ganze Erfahrung sehr persönlich war!",
+				"person": "Sara from Polen"
+			},
+			"review6": {
+				"text": "Wenn Unterwasser nicht Ihr Territorium ist, zu wissen, dass jemand Ihren Rücken hat, ist Guillermo mein Wächter und ich kann nicht dankbar genug sein! <br/> Sehr empfehlenswert!",
+				"person": "Gal from Vereinigte Staaten"
+			}
+		}
+	},
+	"contact": {
+		"address": "Adresse",
+		"contacts": "Kontakte",
+		"mail": "Mail",
+		"social": "Social",
+		"form": {
+			"title": "Kontaktiere uns",
+			"description": "Schreiben Sie uns eine Nachricht vom Formular unten und wir werden uns so schnell wie möglich bei Ihnen melden.",
+			"name": "Your name",
+			"email": "Your email",
+			"comment": "Write comment here...",
+			"submit": "Einreichen"
+		}
+	}
+}

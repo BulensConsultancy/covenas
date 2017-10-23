@@ -49,10 +49,10 @@ var App = function() {
 			
 		function setLanguage(language){
 			Cookies.set('language', language)			
-			$("[data-localize]").localize("js/" + page, { language: language });
+			$("[data-localize]").localize("js/localization/" + page, { language: language });
 		}
 		
-		$("[data-localize]").localize("js/" + page, { language: Cookies.get('language') || "en" });
+		$("[data-localize]").localize("js/localization/" + page, { language: Cookies.get('language') || "en" });
     };
 
     // runs callback functions set by Jango.addResponsiveHandler().
