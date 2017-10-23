@@ -44,7 +44,11 @@ var App = function() {
 		});
 				
 		$("#lngPortugese").click(function()  {			
-			setLanguage('es');
+			setLanguage('pt');
+		});
+		
+		$("#lngGerman").click(function()  {			
+			setLanguage('de');
 		});
 			
 		function setLanguage(language){
