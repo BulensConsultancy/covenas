@@ -50,6 +50,10 @@ var App = function() {
 		$("#lngGerman").click(function()  {			
 			setLanguage('de');
 		});
+		
+		$("#lngFrench").click(function()  {			
+			setLanguage('fr');
+		});
 			
 		function setLanguage(language){
 			Cookies.set('language', language)			
