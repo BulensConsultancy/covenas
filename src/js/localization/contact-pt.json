@@ -2,18 +2,32 @@
 	"nav": {
 		"home": "Casa",
 		"environment": "Meio Ambiente",
-		"about": "Sobre nós",
+		"about": "Sobre n&oacute;s",
 		"courses": "Cursos",
 		"gallery": "Galeria",
 		"contact": "Contato",
 		"language": "Língua"
 	},
 	"languages": {
-		"dutch": "holandês",
-		"english": "Inglês",
+		"dutch": "holand&ecirc;s",
+		"english": "Ingl&ecirc;s",
 		"spanish": "espanhol",
 		"german": "alemão",
-		"french": "francês",
-		"portugese": "português"
+		"french": "franc&ecirc;s",
+		"portugese": "portugu&ecirc;s"
+	},
+	"contact": {
+		"address": "Endereço",
+		"contacts": "Contatos",
+		"mail": "Mail",
+		"social": "Social",
+		"form": {
+			"title": "Contate-Nos",
+			"description": "Deixe-nos uma linha do formulário abaixo e n&oacute;s retornaremos para voc&ecirc; assim que pudermos.",
+			"name": "Your name",
+			"email": "Your email",
+			"comment": "Write comment here...",
+			"submit": "Enviar"
+		}
 	}	
 }

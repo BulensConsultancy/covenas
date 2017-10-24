@@ -15,5 +15,19 @@
 		"german": "Duits",
 		"french": "Frans",
 		"portugese": "Portugees"
+	},
+	"contact": {
+		"address": "Adres",
+		"contacts": "Contact",
+		"mail": "Mail",
+		"social": "Sociaal",
+		"form": {
+			"title": "Contacteer ons",
+			"description": "Drop us a line from the form below and we will get back to you as soon as we can.",
+			"name": "Your name",
+			"email": "Your email",
+			"comment": "Write comment here...",
+			"submit": "Verzenden"
+		}
 	}	
 }

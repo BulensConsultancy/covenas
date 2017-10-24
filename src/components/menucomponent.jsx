@@ -26,7 +26,7 @@ class MenuComponent extends React.Component {
 						</div>								
 						<nav className="c-mega-menu c-pull-right c-mega-menu-dark c-mega-menu-dark-mobile c-fonts-uppercase c-fonts-bold">
 							<ul className="nav navbar-nav c-theme-nav"> 	
-								 <MenuItem isActivePage={this.props.activePage == ""} url="index" text="Home" localize="nav.home" />
+								 <MenuItem isActivePage={this.props.activePage == ""} url="/" text="Home" localize="nav.home" />
 								 <MenuItem isActivePage={this.props.activePage == "environment"} url="environment" text="Environment" localize="nav.environment" />
 								 <MenuItem isActivePage={this.props.activePage == "about"} url="about" text="About Us" localize="nav.about" />
 								 <MenuItem isActivePage={this.props.activePage == "courses"} url="courses" text="Courses" localize="nav.courses" />

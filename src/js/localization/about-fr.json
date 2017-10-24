@@ -6,14 +6,14 @@
 		"courses": "Cours",
 		"gallery": "Galerie",
 		"contact": "Contact",
-		"language": "Langue"
+		"language": "Langue"	
 	},
 	"languages": {
-		"dutch": "néérlandais",
+		"dutch": "n&eacute;&eacute;rlandais",
 		"english": "anglais",
 		"spanish": "espanol",
 		"german": "allemand",
-		"french": "français",
+		"french": "fran&ccedil;ais",
 		"portugese": "portugais"
 	}
 }
