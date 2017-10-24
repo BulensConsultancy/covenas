@@ -26,12 +26,12 @@ class MenuComponent extends React.Component {
 						</div>								
 						<nav className="c-mega-menu c-pull-right c-mega-menu-dark c-mega-menu-dark-mobile c-fonts-uppercase c-fonts-bold">
 							<ul className="nav navbar-nav c-theme-nav"> 	
-								 <MenuItem isActivePage={this.props.activePage == ""} url="index" text="Home" />
-								 <MenuItem isActivePage={this.props.activePage == "environment"} url="environment" text="Environment" />
-								 <MenuItem isActivePage={this.props.activePage == "about"} url="about" text="About Us" />
-								 <MenuItem isActivePage={this.props.activePage == "courses"} url="courses" text="Courses" />
-								 <MenuItem isActivePage={this.props.activePage == "gallery"} url="gallery" text="Gallery" />
-								 <MenuItem isActivePage={this.props.activePage == "contact"} url="contact" text="Contact" />
+								 <MenuItem isActivePage={this.props.activePage == ""} url="index" text="Home" localize="nav.home" />
+								 <MenuItem isActivePage={this.props.activePage == "environment"} url="environment" text="Environment" localize="nav.environment" />
+								 <MenuItem isActivePage={this.props.activePage == "about"} url="about" text="About Us" localize="nav.about" />
+								 <MenuItem isActivePage={this.props.activePage == "courses"} url="courses" text="Courses" localize="nav.courses" />
+								 <MenuItem isActivePage={this.props.activePage == "gallery"} url="gallery" text="Gallery" localize="nav.gallery" />
+								 <MenuItem isActivePage={this.props.activePage == "contact"} url="contact" text="Contact" localize="nav.contact" />
 								
 								 <li className="c-menu-type-classic">
 									<a href="javascript:;" className="c-link dropdown-toggle">Language<span className="c-arrow c-toggler"></span></a>							
@@ -41,7 +41,7 @@ class MenuComponent extends React.Component {
 										<li><a id="lngPortugese"><img src="assets/img/flags/Brazil.png" /> <span data-localize="languages.portugese"></span></a></li>
 										<li><a id="lngFrench"><img src="assets/img/flags/France.png" /> <span data-localize="languages.french"></span></a></li>
 										<li><a id="lngDutch"><img src="assets/img/flags/Netherlands.png" /> <span data-localize="languages.dutch"></span></a></li>
-										<li><a id="lngDutch"><img src="assets/img/flags/Germany.png" /> <span data-localize="languages.german"></span></a></li>
+										<li><a id="lngGerman"><img src="assets/img/flags/Germany.png" /> <span data-localize="languages.german"></span></a></li>
 									</ul>																					
 								 </li>
 							</ul>
@@ -56,19 +56,19 @@ class MenuComponent extends React.Component {
 }
 
 function MenuItem(props) {
-if (props.isActivePage) {
-	return (
-		<li className="c-active">
-			<a href={props.url} className="c-link dropdown-toggle">{props.text}</a>														
-		</li>
-	)
-}
-else {
-	return (	
-		<li>
-			<a href={props.url} className="c-link dropdown-toggle">{props.text}</a>														
-		</li>
-	  );
+	if (props.isActivePage) {
+		return (
+			<li className="c-active">
+				<a href={props.url} className="c-link dropdown-toggle" data-localize={props.localize}></a>														
+			</li>
+		)
+	}
+	else {		
+		return (	
+			<li>
+				<a href={props.url} className="c-link dropdown-toggle" data-localize={props.localize}></a>														
+			</li>
+		  );
 	} 
 }
 

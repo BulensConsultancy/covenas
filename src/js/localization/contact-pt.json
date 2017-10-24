@@ -1,0 +1,19 @@
+{
+	"nav": {
+		"home": "Casa",
+		"environment": "Meio Ambiente",
+		"about": "Sobre nós",
+		"courses": "Cursos",
+		"gallery": "Galeria",
+		"contact": "Contato",
+		"language": "Língua"
+	},
+	"languages": {
+		"dutch": "holandês",
+		"english": "Inglês",
+		"spanish": "espanhol",
+		"german": "alemão",
+		"french": "francês",
+		"portugese": "português"
+	}	
+}

@@ -1,0 +1,61 @@
+{
+	"nav": {
+		"home": "Accueil",
+		"environment": "Environment",
+		"about": "À propos de nous",
+		"courses": "Cours",
+		"gallery": "Galerie",
+		"contact": "Contact",
+		"language": "Langue"
+	},
+	"languages": {
+		"dutch": "n&eacute;&eacute;rlandais",
+		"english": "anglais",
+		"spanish": "espanol",
+		"german": "allemand",
+		"french": "français",
+		"portugese": "portugais"
+	},
+	"tips": {
+		"tip1": {
+			"title": "Soyez un expert en flottabilité",
+			"text":"Les plantes et les animaux sous-marins sont plus fragiles qu'ils ne le paraissent. Le glissement d'une nageoire, la bosse de votre appareil photo ou m&ecirc;me un contact peuvent détruire des décennies de croissance corallienne, endommager une plante ou nuire à un animal. Rationalisez votre équipement de plongée et de photo, gardez vos compétences en plongée, perfectionnez vos techniques de photographie sous-marine et continuez votre formation de plongée pour peaufiner vos compétences. Soyez toujours conscient de votre corps, du matériel de plongée et de l'équipement photo pour éviter tout contact avec l'environnement naturel."
+		},
+		"tip2": {
+			"title": "Soyez un modèle",
+			"text":"Les nouveaux plongeurs sont formés et certifiés tous les jours. Quel que soit votre niveau d'exp&eacute;rience, assurez-vous de montrer l'exemple aux autres lorsqu'ils interagissent avec l'environnement - qu'ils soient sous l'eau ou sur terre."
+		},
+		"tip3": {
+			"title": "Prenez seulement des photos - ne laissez que des bulles",
+			"text":"Presque tout ce qui est naturel trouv&eacute; sous l'eau est vivant ou sera utilis&eacute; par une cr&eacute;ature vivante. Si vous prenez un corail, une coquille ou un animal, vous pouvez perturber l'&eacute;quilibre d&eacute;licat et ajouter à l'&eacute;puisement des sites de plong&eacute;e pour les g&eacute;n&eacute;rations futures."
+		},
+		"tip4": {
+			"title": "Prot&eacute;gez la vie sous-marine",
+			"text":"Choisissez de ne pas toucher, nourrir, manipuler, chasser ou monter quoi que ce soit sous l'eau. Vos actions peuvent stresser l'animal, interrompre l'alimentation et s'accoupler ou provoquer un comportement agressif. Comprenez et respectez la vie sous-marine et respectez toutes les lois et r&eacute;glementations locales."
+		},
+		"tip5": {
+			"title": "Devenez un activiste des d&eacute;bris",
+			"text":"Une quantit&eacute; &eacute;tonnante de d&eacute;chets se fraye un chemin sous l'eau, atteignant m&ecirc;me les zones oc&eacute;aniques les plus recul&eacute;es. Une fois là, il tue la faune, d&eacute;truit les habitats et menace notre sant&eacute; et notre &eacute;conomie. Ne laissez pas vos plong&eacute;es se perdre. Retirez et signalez ce qui n'appartient pas à l'eau chaque fois que vous plongez. Faites un effort conscient pour acheter du vert, acheter local et, si possible, acheter moins."
+		},
+		"tip6": {
+			"title": "Faire des choix de fruits de mer responsables",
+			"text":"La surp&ecirc;che entraîne le d&eacute;clin des espèces tandis que les pratiques de p&ecirc;che nuisibles endommagent et polluent les &eacute;cosystèmes sous-marins. Vous jouez un rôle essentiel en tant que consommateur. Si les fruits de mer font partie de votre s&eacute;lection de repas, assurez-vous de choisir des espèces d'origine durable et encouragez les autres, y compris les restaurants et les commerçants, à faire de m&ecirc;me."
+		},
+		"tip7": {
+			"title": "Passer à l'action",
+			"text":"Les plongeurs sont parmi les plus forts d&eacute;fenseurs de l'oc&eacute;an sur la planète. Maintenant, plus que jamais, des plongeurs comme vous prennent position. Parlez pour la conservation, partagez vos images sous-marines, signalez les dommages environnementaux aux autorit&eacute;s et faites campagne pour le changement."
+		},
+		"tip8": {
+			"title": "Soyez un &eacute;cotouriste",
+			"text":"Prendre des d&eacute;cisions &eacute;clair&eacute;es lors du choix et de la visite d'une destination. Choisissez des installations d&eacute;di&eacute;es à des pratiques commerciales sociales et environnementales responsables qui comprennent la conservation de l'eau, la r&eacute;duction de l'&eacute;nergie, l'&eacute;limination appropri&eacute;e des d&eacute;chets, l'utilisation de bou&eacute;es d'amarrage et le respect des cultures locales, des lois et des règlements."
+		},
+		"tip9": {
+			"title": "R&eacute;duisez votre empreinte carbone",
+			"text":"Le r&eacute;chauffement climatique et l'acidification des oc&eacute;ans mettent en danger vos animaux pr&eacute;f&eacute;r&eacute;s et toute la planète oc&eacute;anique. Faites votre part en comprenant et en r&eacute;duisant votre empreinte carbone et cherchez des moyens de compenser ce que vous ne pouvez pas r&eacute;duire."
+		},
+		"tip10": {
+			"title": "Redonner",
+			"text":"La protection de l'oc&eacute;an d&eacute;pend de toutes nos actions, grandes et petites. Investir dans l'oc&eacute;an protège notre planète et laisse vivre l'aventure de la plong&eacute;e. Faire un don ou une collecte de fonds pour la protection des oc&eacute;ans afin d'alimenter l'action de base et le changement de politique n&eacute;cessaires pour assurer une planète oc&eacute;anique propre et saine."
+		}		
+	}
+}

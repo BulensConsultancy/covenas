@@ -44,7 +44,15 @@ var App = function() {
 		});
 				
 		$("#lngPortugese").click(function()  {			
-			setLanguage('es');
+			setLanguage('pt');
+		});
+		
+		$("#lngGerman").click(function()  {			
+			setLanguage('de');
+		});
+		
+		$("#lngFrench").click(function()  {			
+			setLanguage('fr');
 		});
 			
 		function setLanguage(language){

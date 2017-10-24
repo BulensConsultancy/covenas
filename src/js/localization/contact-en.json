@@ -1,0 +1,19 @@
+{
+	"nav": {
+		"home": "Home",
+		"environment": "Environment",
+		"about": "About us",
+		"courses": "Courses",
+		"gallery": "Gallery",
+		"contact": "Contact",
+		"language": "Language"
+	},
+	"languages": {
+		"dutch": "Dutch",
+		"english": "English",
+		"spanish": "Spanish",
+		"german": "German",
+		"french": "French",
+		"portugese": "Portugese"
+	}	
+}
