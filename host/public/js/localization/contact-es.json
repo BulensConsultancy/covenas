@@ -15,5 +15,19 @@
 		"german": "Aleman",
 		"french": "Francés",
 		"portugese": "Portugés"
-	}	
+	},
+	"contact": {
+		"address": "Direccíon",
+		"contacts": "Contactos",
+		"mail": "Correo electronico",
+		"social": "Social",
+		"form": {
+			"title": "Contactarnos",
+			"description": "Envíenos una línea del formulario a continuación y nos comunicaremos con usted tan pronto como podamos.",
+			"name": "Your name",
+			"email": "Your email",
+			"comment": "Write comment here...",
+			"submit": "Enviar"
+		}
+	}
 }

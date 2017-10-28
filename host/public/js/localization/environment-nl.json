@@ -15,5 +15,47 @@
 		"german": "Duits",
 		"french": "Frans",
 		"portugese": "Portugees"
-	}	
+	},
+	"tips": {
+		"tip1": {
+			"title": "Be a buoyancy expert",
+			"text":"Underwater plants and animals are more fragile than they appear. The swipe of a fin, bump of your camera or even a touch can destroy decades of coral growth, damage a plant or harm an animal. Streamline your scuba and photo gear, keep your dive skills sharp, perfect your underwater photo techniques and continue your dive training to fine-tune your skills. Always be aware of your body, dive gear and photo equipment to avoid contact with the natural environment."
+		},
+		"tip2": {
+			"title": "Be a role model",
+			"text":"New scuba divers are being trained and certified every day. Regardless of your experience level, be sure to set a good example for others when interacting with the environment – while underwater and on land."
+		},
+		"tip3": {
+			"title": "Take only photos - leave only bubbles",
+			"text":"Nearly everything natural found underwater is alive or will be used by a living creature. If you take a coral, shell or animal, you can disturb the delicate balance and add to the depletion of dive sites for future generations."
+		},
+		"tip4": {
+			"title": "Protect underwater life",
+			"text":"Choose not to touch, feed, handle, chase or ride anything underwater. Your actions may stress the animal, interrupt feeding and mating behavior or provoke aggressive behavior. Understand and respect underwater life and follow all local laws and regulations."
+		},
+		"tip5": {
+			"title": "Become an debris activist",
+			"text":"An astonishing amount of waste makes its way underwater, reaching even the most remote ocean areas. Once there, it kills wildlife, destroys habitats and threatens our health and economy. Don’t let your dives go to waste. Remove and report what doesn’t belong underwater every time you dive. Make a conscious effort to buy green, buy local and, when possible, buy less."
+		},
+		"tip6": {
+			"title": "Make responsible seafood choices",
+			"text":"Overfishing leads to species declines while harmful fishing practices damage and pollute underwater ecosystems. You play a critical role as a consumer. If seafood is part of your meal selection, ensure you’re choosing sustainably sourced species and encourage others, including restaurants and shop owners, to do the same."
+		},
+		"tip7": {
+			"title": "Take Action",
+			"text":"Scuba divers are some of the strongest ocean advocates on the planet. Now, more than ever, divers like you are taking a stand. Speak out for conservation, share your underwater images, report environmental damage to authorities and campaign for change."
+		},
+		"tip8": {
+			"title": "Be an Eco-tourist",
+			"text":"Make informed decisions when choosing and visiting a destination. Choose facilities dedicated to responsible social and environmental business practices that include water conservation, energy reduction, proper waste disposal, use of mooring buoys and respect for local cultures, laws and regulations."
+		},
+		"tip9": {
+			"title": "Shrink your carbon footprint",
+			"text":"Global warming and ocean acidification are putting your favorite animals and the whole ocean planet at risk. Do your part by understanding and reducing your carbon footprint and look for ways to offset what you can’t reduce."
+		},
+		"tip10": {
+			"title": "Give back",
+			"text":"Ocean protection depends on all of our actions, large and small. Investing in the ocean protects our planet and lets the dive adventure live on. Donate or fundraise for ocean protection to fuel the grassroots action and policy change necessary to ensure a clean, healthy ocean planet."
+		}		
+	}
 }
