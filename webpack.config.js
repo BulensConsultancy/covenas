@@ -21,7 +21,7 @@ var config = {
 		loaders : [{
 			test : /\.jsx?/,
 			include : APP_DIR,
-			loader : 'babel-loader'
+			loader : 'babel-loader?presets[]=es2015'
 		}]
 	},
 	
