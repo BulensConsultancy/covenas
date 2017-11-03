@@ -8,6 +8,10 @@
 		"contact": "Kontakt",
 		"language": "Sprache"
 	},
+	"footer": {
+		"slogan":"The best PADI Dive Center in town!",
+		"contact":"You can reach us through phone, mail and social media."
+	},
 	"languages": {
 		"dutch": "Niederländisch",
 		"english": "Englisch",

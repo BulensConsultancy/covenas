@@ -8,6 +8,10 @@
 		"contact": "Contact",
 		"language": "Langue"
 	},
+	"footer": {
+		"slogan":"The best PADI Dive Center in town!",
+		"contact":"You can reach us through phone, mail and social media."
+	},
 	"languages": {
 		"dutch": "n&eacute;&eacute;rlandais",
 		"english": "anglais",
@@ -17,6 +21,8 @@
 		"portugese": "portugais"
 	},
 	"tips": {
+		"aware":"With all the certifications issued, we make a donation to <b><a href='http://projectaware.org' target='_blank'>Project AWARE</a></b>, an independent, non profit organization with the aim to protect and care about the marine enviroment. Moreover, during the courses and in the dives we put a special emphasis on responsible behavior, following the 10 tips for responsible divers and organizing beach cleanups. Compromised with being an autosustainable company, we always try to reduce debris. One way to achieve this is by giving our students digital books rather than paper.",
+		"intro":"Here are ten tips for divers to protect the ocean planet:",
 		"tip1": {
 			"title": "Soyez un expert en flottabilit&eacute;",
 			"text":"Les plantes et les animaux sous-marins sont plus fragiles qu'ils ne le paraissent. Le glissement d'une nageoire, la bosse de votre appareil photo ou m&ecirc;me un contact peuvent d&eacute;truire des d&eacute;cennies de croissance corallienne, endommager une plante ou nuire &Agrave; un animal. Rationalisez votre &eacute;quipement de plong&eacute;e et de photo, gardez vos comp&eacute;tences en plong&eacute;e, perfectionnez vos techniques de photographie sous-marine et continuez votre formation de plong&eacute;e pour peaufiner vos comp&eacute;tences. Soyez toujours conscient de votre corps, du mat&eacute;riel de plong&eacute;e et de l'&eacute;quipement photo pour &eacute;viter tout contact avec l'environnement naturel."

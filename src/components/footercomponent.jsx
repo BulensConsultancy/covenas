@@ -17,16 +17,15 @@ class FooterComponent extends React.Component {
 									<div className="c-content-title-1">
 										<h3 className="c-font-uppercase c-font-bold c-font-white"><span className="c-theme-font">Coveñas</span> Diving</h3>
 										<div className="c-line-left hide"></div>
-										<p className="c-text">
-										The best PADI Dive Center in town!</p>
+										<p className="c-text" data-localize="footer.slogan"></p>
 									</div>
 									<ul className="c-links">
-										<li><a href="http://www.covenasdivingco.com">Home</a></li>
-										<li><a href="about">About</a></li>
-										<li><a href="environment">Environment</a></li>
-										<li><a href="courses">Courses</a></li>
-										<li><a href="gallery">Gallery</a></li>
-										<li><a href="contact">Contact</a></li>
+										<li><a href="http://www.covenasdivingco.com" data-localize="nav.home"></a></li>
+										<li><a href="about" data-localize="nav.about"></a></li>
+										<li><a href="environment" data-localize="nav.environment"></a></li>
+										<li><a href="courses" data-localize="nav.courses"></a></li>
+										<li><a href="gallery" data-localize="nav.gallery"></a></li>
+										<li><a href="contact" data-localize="nav.contact"></a></li>
 									</ul>
 								</div>
 							</div>
@@ -36,7 +35,7 @@ class FooterComponent extends React.Component {
 									<div className="c-content-title-1">
 										<h3 className="c-font-uppercase c-font-bold c-font-white">Find us</h3>
 										<div className="c-line-left hide"></div>
-										<p>You can reach us through phone, mail and social media.</p>
+										<p data-localize="footer.contact"></p>
 									</div>
 									<ul className="c-socials">
 										<li><a href="https://www.facebook.com/Covenasdivingco/" target="_blank"><i className="fa fa-facebook"></i></a></li>							
@@ -69,6 +68,23 @@ class FooterComponent extends React.Component {
 			</div>	
 		);
 	}
+}
+
+function FooterLink(props) {
+	if (props.isActivePage) {
+		return (
+			<li className="c-active">
+				<a href={props.url} className="c-link dropdown-toggle" data-localize={props.localize}></a>														
+			</li>
+		)
+	}
+	else {		
+		return (	
+			<li>
+				<a href={props.url} className="c-link dropdown-toggle" data-localize={props.localize}></a>														
+			</li>
+		  );
+	} 
 }
 
 export default FooterComponent;

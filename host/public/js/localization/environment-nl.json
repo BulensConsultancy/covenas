@@ -8,6 +8,10 @@
 		"contact": "Contact",
 		"language": "Taal"
 	},
+	"footer": {
+		"slogan":"The best PADI Dive Center in town!",
+		"contact":"You can reach us through phone, mail and social media."
+	},
 	"languages": {
 		"dutch": "Nederlands",
 		"english": "Engels",
@@ -17,6 +21,8 @@
 		"portugese": "Portugees"
 	},
 	"tips": {
+		"aware":"With all the certifications issued, we make a donation to <b><a href='http://projectaware.org' target='_blank'>Project AWARE</a></b>, an independent, non profit organization with the aim to protect and care about the marine enviroment. Moreover, during the courses and in the dives we put a special emphasis on responsible behavior, following the 10 tips for responsible divers and organizing beach cleanups. Compromised with being an autosustainable company, we always try to reduce debris. One way to achieve this is by giving our students digital books rather than paper.",
+		"intro":"Here are ten tips for divers to protect the ocean planet:",
 		"tip1": {
 			"title": "Be a buoyancy expert",
 			"text":"Underwater plants and animals are more fragile than they appear. The swipe of a fin, bump of your camera or even a touch can destroy decades of coral growth, damage a plant or harm an animal. Streamline your scuba and photo gear, keep your dive skills sharp, perfect your underwater photo techniques and continue your dive training to fine-tune your skills. Always be aware of your body, dive gear and photo equipment to avoid contact with the natural environment."

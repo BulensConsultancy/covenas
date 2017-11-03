@@ -8,6 +8,10 @@
 		"contact": "Contact",
 		"language": "Taal"
 	},
+	"footer": {
+		"slogan":"The best PADI Dive Center in town!",
+		"contact":"You can reach us through phone, mail and social media."
+	},
 	"languages": {
 		"dutch": "Nederlands",
 		"english": "Engels",
@@ -29,5 +33,5 @@
 			"comment": "Write comment here...",
 			"submit": "Verzenden"
 		}
-	}	
+	}
 }

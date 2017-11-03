@@ -1,20 +1,15 @@
-// CONTACT MAP
-
 var PageContact = function() {
-
 	var _init = function() {
-
 		var mapbg = new GMaps({
 			div: '#gmapbg',
-			lat: 9.410315,
-			lng: -75.706868,
+			lat: 9.400951,
+			lng: -75.679949,
 			scrollwheel: false,
 		});
 
-
 		mapbg.addMarker({
-			lat: 9.410315,
-			lng: -75.706868,
+			lat: 9.400951,
+			lng: -75.679949,
 			title: 'Coveñas Diving',
 
 			infoWindow: {
@@ -23,20 +18,16 @@ var PageContact = function() {
 		});
 	}
 
-    return {
-        //main function to initiate the module
+    return {        
         init: function() {
-
             _init();
-
         }
-
     };
 }();
 
 $(document).ready(function() {
     PageContact.init();
-    $( window ).resize(function() {
+    $(window).resize(function() {
 		PageContact.init();
 	});
 });

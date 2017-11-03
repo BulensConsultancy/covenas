@@ -34,7 +34,7 @@ class MenuComponent extends React.Component {
 								 <MenuItem isActivePage={this.props.activePage == "contact"} url="contact" text="Contact" localize="nav.contact" />
 								
 								 <li className="c-menu-type-classic">
-									<a href="javascript:;" className="c-link dropdown-toggle">Language<span className="c-arrow c-toggler"></span></a>							
+									<a href="javascript:;" className="c-link dropdown-toggle" data-localize="nav.language"><span className="c-arrow c-toggler"></span></a>							
 									<ul className="dropdown-menu c-menu-type-classic c-pull-left">										
 										<li><a id="lngSpanish"><img src="assets/img/flags/Spain.png" /> <span data-localize="languages.spanish"></span></a></li>									
 										<li><a id="lngEnglish"><img src="assets/img/flags/UK.png" /> <span data-localize="languages.english"></span></a></li>									
