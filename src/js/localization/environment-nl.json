@@ -9,8 +9,9 @@
 		"language": "Taal"
 	},
 	"footer": {
-		"slogan":"The best PADI Dive Center in town!",
-		"contact":"You can reach us through phone, mail and social media."
+		"findus": "Hoe ons te bereiken",
+		"slogan":"Het beste PADI duikcentrum in de omgeving!",
+		"contact":"Je kan ons bereiken via telefoon, e-mail and sociale media."
 	},
 	"languages": {
 		"dutch": "Nederlands",
@@ -21,47 +22,47 @@
 		"portugese": "Portugees"
 	},
 	"tips": {
-		"aware":"With all the certifications issued, we make a donation to <b><a href='http://projectaware.org' target='_blank'>Project AWARE</a></b>, an independent, non profit organization with the aim to protect and care about the marine enviroment. Moreover, during the courses and in the dives we put a special emphasis on responsible behavior, following the 10 tips for responsible divers and organizing beach cleanups. Compromised with being an autosustainable company, we always try to reduce debris. One way to achieve this is by giving our students digital books rather than paper.",
-		"intro":"Here are ten tips for divers to protect the ocean planet:",
+		"aware":"Met alle uitgegeven certificaten maken we een donatie aan <b> <a href='http://projectaware.org' target='_blank'> Project AWARE </a> </b>, een onafhankelijke organisatie zonder winstoogmerk met het doel om het mariene milieu te beschermen en te verzorgen. Bovendien leggen we tijdens de cursussen en in de duiken speciale nadruk op verantwoord gedrag, het volgen van de 10 tips voor verantwoordelijke duikers en het organiseren van strandopruimingen. Gecompromitteerd om een autosurveillancebedrijf te zijn, proberen we altijd puin te verminderen. Een manier om dit te bereiken, is door onze studenten digitale boeken te geven in plaats van papier.",
+		"intro":"Hier zijn tien tips voor duikers om de oceanen helpen te beschermen:",
 		"tip1": {
-			"title": "Be a buoyancy expert",
-			"text":"Underwater plants and animals are more fragile than they appear. The swipe of a fin, bump of your camera or even a touch can destroy decades of coral growth, damage a plant or harm an animal. Streamline your scuba and photo gear, keep your dive skills sharp, perfect your underwater photo techniques and continue your dive training to fine-tune your skills. Always be aware of your body, dive gear and photo equipment to avoid contact with the natural environment."
+			"title": "Wees een expert in het drijfvermogen",
+			"text":"Onderwaterplanten en dieren zijn kwetsbaarder dan ze lijken. De veeg van een vin, hobbel van je camera of zelfs een aanraking kan decennia van koraalgroei vernietigen, een plant beschadigen of een dier beschadigen. Stroomlijn je duik- en fototoestel, houd je duikvaardigheden scherp, perfectioneer je onderwaterfoto-technieken en ga door met je duiktraining om je vaardigheden te verfijnen. Wees altijd bewust van je lichaam, duikuitrusting en fototoestellen om contact met de natuurlijke omgeving te vermijden."
 		},
 		"tip2": {
-			"title": "Be a role model",
-			"text":"New scuba divers are being trained and certified every day. Regardless of your experience level, be sure to set a good example for others when interacting with the environment – while underwater and on land."
+			"title": "Wees een rolmodel",
+			"text":"Nieuwe duikers worden elke dag getraind en gecertificeerd. Ongeacht uw ervaringsniveau, zorg ervoor dat u een goed voorbeeld geeft voor anderen bij interactie met de omgeving - terwijl u onder water bent en op het land."
 		},
 		"tip3": {
-			"title": "Take only photos - leave only bubbles",
-			"text":"Nearly everything natural found underwater is alive or will be used by a living creature. If you take a coral, shell or animal, you can disturb the delicate balance and add to the depletion of dive sites for future generations."
+			"title": "Neem enkel foto's - laat alleen bubbels achter",
+			"text":"Bijna alles wat onder water te vinden is, leeft of zal door een levend wezen worden gebruikt. Als je een koraal, schaal of dier neemt, kun je het delicate evenwicht verstoren en toevoegen aan de uitputting van duikplekken voor toekomstige generaties."
 		},
 		"tip4": {
-			"title": "Protect underwater life",
-			"text":"Choose not to touch, feed, handle, chase or ride anything underwater. Your actions may stress the animal, interrupt feeding and mating behavior or provoke aggressive behavior. Understand and respect underwater life and follow all local laws and regulations."
+			"title": "Bescherm het leven onderwater",
+			"text":"Kies ervoor om niets onder water aan te raken, te voeden, te hanteren, te achtervolgen of te rijden. Je acties kunnen het dier beklemtonen, het voeder- en paringsgedrag onderbreken of agressief gedrag uitlokken. Begrijp en respecteer het onderwaterleven en volg alle lokale wetten en voorschriften."
 		},
 		"tip5": {
-			"title": "Become an debris activist",
-			"text":"An astonishing amount of waste makes its way underwater, reaching even the most remote ocean areas. Once there, it kills wildlife, destroys habitats and threatens our health and economy. Don’t let your dives go to waste. Remove and report what doesn’t belong underwater every time you dive. Make a conscious effort to buy green, buy local and, when possible, buy less."
+			"title": "Wees een activist inzake puinopruiming",
+			"text":"Een verbazingwekkende hoeveelheid afval vindt zijn weg onder water en bereikt zelfs de meest afgelegen oceaangebieden. Eenmaal daar doodt het dieren in het wild, vernietigt het habitats en bedreigt het onze gezondheid en economie. Laat je duiken niet verloren gaan. Verwijder en rapporteer wat niet elke keer thuis hoort als je duikt. Maak een bewuste poging om groen te kopen, lokaal te kopen en, indien mogelijk, minder te kopen."
 		},
 		"tip6": {
-			"title": "Make responsible seafood choices",
-			"text":"Overfishing leads to species declines while harmful fishing practices damage and pollute underwater ecosystems. You play a critical role as a consumer. If seafood is part of your meal selection, ensure you’re choosing sustainably sourced species and encourage others, including restaurants and shop owners, to do the same."
+			"title": "Maak verantwoordelijke keuzes inzake voedsel",
+			"text":"Overbevissing leidt tot achteruitgang van soorten, terwijl schadelijke visserijpraktijken ecosystemen onder water beschadigen en vervuilen. Je speelt een cruciale rol als consument. Als zeevruchten onderdeel is van uw maaltijdselectie, zorg er dan voor dat u kiest voor duurzaam gewonnen soorten en moedig anderen, inclusief restaurants en winkeliers, aan om hetzelfde te doen."
 		},
 		"tip7": {
-			"title": "Take Action",
-			"text":"Scuba divers are some of the strongest ocean advocates on the planet. Now, more than ever, divers like you are taking a stand. Speak out for conservation, share your underwater images, report environmental damage to authorities and campaign for change."
+			"title": "Onderneem actie",
+			"text":"Duikers zijn enkele van de sterkste oceaanverdedigers ter wereld. Meer dan ooit nemen duikers zoals jij een standpunt in. Spreek uit voor conservering, deel uw onderwaterfoto's, rapporteer milieuschade aan autoriteiten en breng campagne voor verandering."
 		},
 		"tip8": {
-			"title": "Be an Eco-tourist",
-			"text":"Make informed decisions when choosing and visiting a destination. Choose facilities dedicated to responsible social and environmental business practices that include water conservation, energy reduction, proper waste disposal, use of mooring buoys and respect for local cultures, laws and regulations."
+			"title": "Wees een eco-toerist",
+			"text":"Neem weloverwogen beslissingen bij het kiezen en bezoeken van een bestemming. Kies faciliteiten die zijn toegewijd aan verantwoorde sociale en milieutechnische bedrijfspraktijken, waaronder waterbescherming, energiereductie, juiste afvalverwerking, gebruik van meerboeien en respect voor lokale culturen, wetten en voorschriften."
 		},
 		"tip9": {
-			"title": "Shrink your carbon footprint",
-			"text":"Global warming and ocean acidification are putting your favorite animals and the whole ocean planet at risk. Do your part by understanding and reducing your carbon footprint and look for ways to offset what you can’t reduce."
+			"title": "Verklein uw ecologische voetafdruk",
+			"text":"De opwarming van de aarde en verzuring van de oceaan brengen je favoriete dieren en de hele oceaanplaneet in gevaar. Doe uw deel door uw ecologische voetafdruk te begrijpen en te verminderen en te zoeken naar manieren om te compenseren wat u niet kunt verminderen."
 		},
 		"tip10": {
-			"title": "Give back",
-			"text":"Ocean protection depends on all of our actions, large and small. Investing in the ocean protects our planet and lets the dive adventure live on. Donate or fundraise for ocean protection to fuel the grassroots action and policy change necessary to ensure a clean, healthy ocean planet."
+			"title": "Geef terug",
+			"text":"De bescherming van de oceaan hangt af van al onze acties, groot en klein. Investeren in de oceaan beschermt onze planeet en laat het duikavontuur leven. Doneer of stel geld in voor bescherming van de oceaan om de basisactie en beleidswijziging te voeden die nodig is om een schone, gezonde oceaanplaneet te garanderen."
 		}		
 	}
 }

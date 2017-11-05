@@ -33,7 +33,7 @@ class FooterComponent extends React.Component {
 							<div className="col-md-6">
 								<div className="c-container c-last">
 									<div className="c-content-title-1">
-										<h3 className="c-font-uppercase c-font-bold c-font-white">Find us</h3>
+										<h3 className="c-font-uppercase c-font-bold c-font-white" data-localize="footer.findus"></h3>
 										<div className="c-line-left hide"></div>
 										<p data-localize="footer.contact"></p>
 									</div>

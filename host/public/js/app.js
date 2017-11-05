@@ -202,10 +202,7 @@ var App = function() {
     };
 
     // Handles Bootstrap Dropdowns
-    var handleDropdowns = function() {
-        /*
-          Hold dropdown on click  
-        */
+    var handleDropdowns = function() {        
         $('body').on('click', '.dropdown-menu.hold-on-click', function(e) {
             e.stopPropagation();
         });
@@ -236,10 +233,7 @@ var App = function() {
             $(this).addClass('hover-initialized');
         });
     };
-
-    // Handles Bootstrap Popovers
-
-    // last popep popover
+   
     var lastPopedPopover;
 
     var handlePopovers = function() {
@@ -285,11 +279,8 @@ var App = function() {
 
     return {
 
-        //main function to initiate the theme
-        init: function(page) {			
-            //IMPORTANT!!!: Do not modify the core handlers call order.
-
-            //Core handlers
+        // Main function to initiate the theme
+        init: function(page) {			          
             handleHeight();
             this.addResizeHandler(handleHeight); // handle auto calculating height on window resize
 
