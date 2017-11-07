@@ -4,34 +4,34 @@
 		"environment": "Medio ambiente",
 		"about": "Sobre nosotros",
 		"courses": "Cursos",
-		"gallery": "Galería",
+		"gallery": "Galer&Iacute;a",
 		"contact": "Contacto",
 		"language": "Idioma"
 	},
 	"footer": {
-		"findus": "Find us",
-		"slogan":"The best PADI Dive Center in town!",
-		"contact":"You can reach us through phone, mail and social media."
+		"findus": "Encu&eacute;ntranos",
+		"slogan":"&iexcl;El mejor centro de buceo de la ciudad!",
+		"contact":"Cont&aacute;ctenos por tel&eacute;fono, mail y redes sociales."
 	},
 	"languages": {
-		"dutch": "Holandés",
-		"english": "Inglés",
-		"spanish": "Español",
-		"german": "Aleman",
-		"french": "Francés",
-		"portugese": "Portugés"
+		"dutch": "Holand&eacute;s",
+		"english": "Ingl&eacute;s",
+		"spanish": "Espa&ntilde;ol",
+		"german": "Alem&aacute;n",
+		"french": "Franc&eacute;s",
+		"portugese": "Portug&eacute;s"
 	},
 	"contact": {
-		"address": "Direccíon",
+		"address": "Direcc&Iacute;on",
 		"contacts": "Contactos",
 		"mail": "Correo electronico",
 		"social": "Social",
 		"form": {
 			"title": "Contactarnos",
-			"description": "Envíenos una línea del formulario a continuación y nos comunicaremos con usted tan pronto como podamos.",
-			"name": "Your name",
-			"email": "Your email",
-			"comment": "Write comment here...",
+			"description": "Env&Iacute;enos unas l&Iacute;neas del formulario a continuaci&oacute;n y nos comunicaremos con usted tan pronto como podamos.",
+			"name": "Su nombre",
+			"email": "Su email",
+			"comment": "Escriba aqu&Iacute; sus comentarios...",
 			"submit": "Enviar"
 		}
 	}

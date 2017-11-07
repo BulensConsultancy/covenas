@@ -4,65 +4,65 @@
 		"environment": "Medio ambiente",
 		"about": "Sobre nosotros",
 		"courses": "Cursos",
-		"gallery": "Galería",
+		"gallery": "Galer&Iacute;a",
 		"contact": "Contacto",
 		"language": "Idioma"
 	},
 	"footer": {
-		"findus": "Find us",
-		"slogan":"The best PADI Dive Center in town!",
-		"contact":"You can reach us through phone, mail and social media."
+		"findus": "Encu&eacute;ntranos",
+		"slogan":"&iexcl;El mejor centro de buceo de la ciudad!",
+		"contact":"Cont&aacute;ctenos por tel&eacute;fono, mail y redes sociales."
 	},
 	"languages": {
-		"dutch": "Holandés",
-		"english": "Inglés",
-		"spanish": "Español",
-		"german": "Aleman",
-		"french": "Francés",
-		"portugese": "Portugés"
+		"dutch": "Holand&eacute;s",
+		"english": "Ingl&eacute;s",
+		"spanish": "Espa&ntilde;ol",
+		"german": "Alem&aacute;n",
+		"french": "Franc&eacute;s",
+		"portugese": "Portug&eacute;s"
 	},
 	"tips": {
-		"aware":"With all the certifications issued, we make a donation to <b><a href='http://projectaware.org' target='_blank'>Project AWARE</a></b>, an independent, non profit organization with the aim to protect and care about the marine enviroment. Moreover, during the courses and in the dives we put a special emphasis on responsible behavior, following the 10 tips for responsible divers and organizing beach cleanups. Compromised with being an autosustainable company, we always try to reduce debris. One way to achieve this is by giving our students digital books rather than paper.",
-		"intro":"Here are ten tips for divers to protect the ocean planet:",
+		"aware":"Con todas las certificaciones que emitimos, realizamos una donaci&oacute;n a <b><a href='http://projectaware.org' target='_blank'>Project AWARE</a></b>, una organizaci&oacute;n independiente, sin &aacute;nimo de lucro que se encarga de cuidar y proteger el medio ambiente marino. Adem&aacute;s, durante el curso, se hace especial &eacute;nfasis en el comportamiento responsable, siguiendo los 10 consejos para buceadores responsables y organizando limpiezas de playa. Comprometidos con la autosostenibilidad, tratamos de reducir los deshechos. Una manera de conseguirlo es dando a nuestros alumnos material digital en lugar de papel.",
+		"intro":"Estos son los diez consejos para los buceadores para proteger el planeta:",
 		"tip1": {
-			"title": "Be a buoyancy expert",
-			"text":"Underwater plants and animals are more fragile than they appear. The swipe of a fin, bump of your camera or even a touch can destroy decades of coral growth, damage a plant or harm an animal. Streamline your scuba and photo gear, keep your dive skills sharp, perfect your underwater photo techniques and continue your dive training to fine-tune your skills. Always be aware of your body, dive gear and photo equipment to avoid contact with the natural environment."
+			"title": "Ser un experto en flotabilidad",
+			"text":"Las plantas y animales submarinos son m&aacute;s fr&aacute;giles de lo que aparentan. un simple aleteo,un golpe de su c&aacute;mara puede destruir d&eacute;cadas de crecimiento coralino, da&ntilde;ar las plantas o herir los animales. Asegure su equipo scuba y de fotograf&Iacute;a, mantenga sus t&eacute;cnicas de buceo, perfeccione las t&eacute;cnicas de fotograf&Iacute;a submarina y continue con su aprendizaje de buceo para mejorar sus t&eacute;cnicas. Siempre est&eacute; a alerta de su posici&oacute;n corporal, el equipo y equipo de fotograf&Iacute;a para evitar el contacto con el medio natural."
 		},
 		"tip2": {
-			"title": "Be a role model",
-			"text":"New scuba divers are being trained and certified every day. Regardless of your experience level, be sure to set a good example for others when interacting with the environment – while underwater and on land."
+			"title": "Sea un modelo a seguir",
+			"text":"Cada d&Iacute;a se entrenan y certifican nuevos buzos. Sin importar su nivel de certificaci&oacute;n, aseg&iexcl;rese de ser un buen ejemplo para los otros cuando interact&iexcl;e con el medio ambiente- bajo el agua o en la tierra."
 		},
 		"tip3": {
-			"title": "Take only photos - leave only bubbles",
-			"text":"Nearly everything natural found underwater is alive or will be used by a living creature. If you take a coral, shell or animal, you can disturb the delicate balance and add to the depletion of dive sites for future generations."
+			"title": "Tome solo fotos - deje solo burbujas",
+			"text":"Casi todo lo que se encuentra bajo el agua est&aacute; vivo o ser&aacute; usado por una criatura viva. Si toma un coral, una concha o un animal, puede alterar el delicado ecosistema y contribuir al deterioro de los lugares de buceo para las generaciones futuras."
 		},
 		"tip4": {
-			"title": "Protect underwater life",
-			"text":"Choose not to touch, feed, handle, chase or ride anything underwater. Your actions may stress the animal, interrupt feeding and mating behavior or provoke aggressive behavior. Understand and respect underwater life and follow all local laws and regulations."
+			"title": "Proteja la vida acu&aacute;tica",
+			"text":"Elija no tocar, alimentar, manejar, perseguir o montar nada bajo el agua. Sus acciones pueden estresar los animales, interrumpir su alimentaci&oacute;n o relaciones o, incluso, provocar un comportamiento agresivo. Entienda y respete la vida submarina y siga las leyes y regulaciones locales."
 		},
 		"tip5": {
-			"title": "Become an debris activist",
-			"text":"An astonishing amount of waste makes its way underwater, reaching even the most remote ocean areas. Once there, it kills wildlife, destroys habitats and threatens our health and economy. Don’t let your dives go to waste. Remove and report what doesn’t belong underwater every time you dive. Make a conscious effort to buy green, buy local and, when possible, buy less."
+			"title": "Sea un activista de los deshechos",
+			"text":"Una increible cantidad de deshechos viajan bajo el agua, llegando a las &aacute;reas m&aacute;s remotas. Una vez ah&Iacute;, matan la vida salvaje, destruye sus h&aacute;bitats y amenaza nuestra salud y econom&Iacute;a. No deje que sus buceos se conviertan en un desperdicio. Retire y reporte todo lo que no pertenezca al agua en cada buceo. Haga un esfuerzo por comprar ecol&oacute;gico, local y, si es posible, comprar menos."
 		},
 		"tip6": {
-			"title": "Make responsible seafood choices",
-			"text":"Overfishing leads to species declines while harmful fishing practices damage and pollute underwater ecosystems. You play a critical role as a consumer. If seafood is part of your meal selection, ensure you’re choosing sustainably sourced species and encourage others, including restaurants and shop owners, to do the same."
+			"title": "Haga elecciones de alimentos marinos responsable",
+			"text":"La explotaci&oacute;n pesquera lleva a la extinci&oacute;n de las especies y las pr&aacute;cticas da&ntilde;inas destruyen y contaminan los ecosistemas. Usted tiene un rol muy importante como consumidor. Si usted es consumidor de pescado, aseg&iexcl;rese de que sean especies no amenazadas y anime a otras personas o restaurantes y vendedores locales, a hacer lo mismo."
 		},
 		"tip7": {
-			"title": "Take Action",
-			"text":"Scuba divers are some of the strongest ocean advocates on the planet. Now, more than ever, divers like you are taking a stand. Speak out for conservation, share your underwater images, report environmental damage to authorities and campaign for change."
+			"title": "Tome acci&oacute;n",
+			"text":"Los buceadores son los mejores embajadores del mundo submarino. Ahora m&aacute;s que nunca, los buceadores est&aacute;n tomando acciones. Dialogue por la conservaci&oacute;n, comparta sus im&aacute;genes submarinas, reporte los da&ntilde;os ambientales a las autoridades locales y luche por el cambio."
 		},
 		"tip8": {
-			"title": "Be an Eco-tourist",
-			"text":"Make informed decisions when choosing and visiting a destination. Choose facilities dedicated to responsible social and environmental business practices that include water conservation, energy reduction, proper waste disposal, use of mooring buoys and respect for local cultures, laws and regulations."
+			"title": "Sea un Eco-turista",
+			"text":"Informarse bien antes de elegir un lugar para visitar. Elija facilidades que sigan responsabilidades corporativas sociales y ecol&oacute;gicas, como conservaci&oacute;n del agua, reducci&oacute;n de energ&Iacute;a, pol&Iacute;tica de tratamiento de residuos, uso de boyas y respeto por la cultura, leyes y regulaciones locales."
 		},
 		"tip9": {
-			"title": "Shrink your carbon footprint",
-			"text":"Global warming and ocean acidification are putting your favorite animals and the whole ocean planet at risk. Do your part by understanding and reducing your carbon footprint and look for ways to offset what you can’t reduce."
+			"title": "Reducir su huella de carbono",
+			"text":"El calentamiento global y la acidificaci&oacute;n del oc&eacute;ano ponen a sus animales favoritos y a todo el planeta oc&eacute;ano en riesgo. Cumpla su parte entendiendo y reduciendo su huella de carbono y busque maneras de compensar las que no se pueden reducir."
 		},
 		"tip10": {
-			"title": "Give back",
-			"text":"Ocean protection depends on all of our actions, large and small. Investing in the ocean protects our planet and lets the dive adventure live on. Donate or fundraise for ocean protection to fuel the grassroots action and policy change necessary to ensure a clean, healthy ocean planet."
+			"title": "Devuelva",
+			"text":"la protecci&oacute;n del oc&eacute;ano depende de todas nuestras acciones, peque&ntilde;as o grandes. Invertir en el oc&eacute;ano protege nuestro planeta y prolonga la aventura del buceo. Donar o conseguir fondos para la protecci&oacute;n del oc&eacute;ano asienta las bases para conseguir las acciones y pol&Iacute;ticas para asegurarse un planeta oc&eacute;ano limpio y saludable."
 		}		
 	}
 }

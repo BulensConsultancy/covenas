@@ -1,95 +1,95 @@
-{
+﻿{
 	"nav": {
 		"home": "Inicio",
 		"environment": "Medio ambiente",
 		"about": "Sobre nosotros",
 		"courses": "Cursos",
-		"gallery": "Galería",
+		"gallery": "Galer&Iacute;a",
 		"contact": "Contacto",
 		"language": "Idioma"
 	},
 	"footer": {
-		"findus": "Find us",
-		"slogan":"The best PADI Dive Center in town!",
-		"contact":"You can reach us through phone, mail and social media."
+		"findus": "Encu&eacute;ntranos",
+		"slogan":"&iexcl;El mejor centro de buceo de la ciudad!",
+		"contact":"Cont&aacute;ctenos por tel&eacute;fono, mail y redes sociales."
 	},
 	"languages": {
-		"dutch": "Holandés",
-		"english": "Inglés",
-		"spanish": "Español",
-		"german": "Aleman",
-		"french": "Francés",
-		"portugese": "Portugés"
+		"dutch": "Holand&eacute;s",
+		"english": "Ingl&eacute;s",
+		"spanish": "Espa&ntilde;ol",
+		"german": "Alem&aacute;n",
+		"french": "Franc&eacute;s",
+		"portugese": "Portug&eacute;s"
 	},
 	"slides": {
 		"slide1": "Descubra el buceo",
 		"slide2": "El mejor centro de buceo en la ciudad!"
 	},
 	"about": {
-		"title": "Sobre nosotro",
-		"section1": "En Coveñas Diving, nos encanta bucear y queremos compartir esta increíble región contigo. Nuestros instructores experimentados están altamente capacitados, conscientes de la seguridad y entusiasmados de hacer de esta una gran experiencia de buceo para usted, ya sea un buzo experimentado o un principiante.",
-		"section2": "Aquí, nos sumergimos en pequeños grupos de niveles de experiencia similares (grupos de 4 (o menos) buceadores por instructor) para maximizar la seguridad y la diversión."
+		"title": "Sobre nosotros",
+		"section1": "En Cove&ntilde;as Diving, nos encanta bucear y queremos compartir esta incre&Iacute;ble regi&oacute;n contigo. Nuestros experimentados instructores est&aacute;n altamente capacitados, preocupados por la seguridad y entusiasmados por hacer de esta una gran experiencia de buceo para usted, ya sea un buzo experimentado o un principiante.",
+		"section2": "Buceamos en peque&ntilde;os grupos de niveles de experiencia similares (grupos de 4 (o menos) buceadores por instructor) para maximizar la seguridad y la diversi&oacute;n."
 	},
 	"services": {
 		"title": "Nuestros servicios",
 		"service1": {
 			"title": "Entrenamiento PADI",
-			"description": "Ya seas nuevo o experimentado, ¡tenemos cursos que esperan nuevas aventuras!"
+			"description": "Ya sea nuevo o experimentado, &iexcl;tenemos cursos que le brindar&aacute;n nuevas aventuras!"
 		},
 		"service2": {
-			"title": "Customized trips",
-			"description": "¡Podemos adaptar los viajes a su gusto!"
+			"title": "Viajes de buceo",
+			"description": "&iexcl;Podemos adaptar los viajes a su gusto!"
 		},
 		"service3": {
 			"title": "Fun dives",
-			"description": "¡Te llevaremos a los mejores sitios de buceo de la zona!"
+			"description": "&iexcl;Le llevaremos a los mejores sitios de buceo de la zona!"
 		},
 		"service4": {
-			"title": "Vaya profesional",
-			"description": "¿Listo para ser un dive master?"
+			"title": "H&aacute;gase profesional",
+			"description": "&iquest;Listo para ser un dive master?"
 		}
 	},
 	"testimonials": {
 		"title": "Opiniones de los clientes",
-		"description": "Vea lo que algunos de nuestros clientes tienen que decir sobre nosotros",
+		"description": "Vea lo que algunos de nuestros clientes dicen sobre nosotros",
 		"reviews": {
 			"review1": {
-				"text": "Durante la parte de estudio y la parte práctica en el grupo, Guillermo fue extremadamente profesional y tranquilizador, lo que me facilitó el descanso y la diversión. Además de eso, es un tipo genial y genuino que se asegurará de que tengas una gran experiencia.",
+				"text": "Durante la parte de estudio y la parte pr&aacute;ctica en la piscina, Guillermo fue extremadamente profesional y tranquilizador, lo que me facilit&oacute; el descanso y la diversi&oacute;n. Adem&aacute;s de eso, es un tipo genial y genuino que se asegurar&aacute; de que tengas una gran experiencia.",
 				"person": "Mariana de Dinamarca"
 			},
 			"review2": {
-				"text": "Fui a Colombia a realizar mi curso y certificación en Open Waters. Por recomendación me puse en contacto con Guillermo. Me dió mucha confianza y seguridad en la charla previa. Su buen humor y predisposición hicieron que esas jordanas sean increíbles.",
+				"text": "Fui a Colombia a realizar mi curso y certificaci&oacute;n en Open Waters. Por recomendaci&oacute;n me puse en contacto con Guillermo. Me di&oacute; mucha confianza y seguridad en la charla previa. Su buen humor y predisposici&oacute;n hicieron que esas jordanas sean incre&Iacute;bles.",
 				"person": "Leo de Argentina"
 			},
 			"review3": {
-				"text": "Guillermo logra equilibrar la profesionalidad y la diversión a la perfección. Su conocimiento de buceo y seguridad, así como su compromiso de mantener altos estándares con cada curso, lo convierten en el arquetipo de la excelencia. ¡No puedo recomendarlo lo suficiente!",
+				"text": "Guillermo logra equilibrar la profesionalidad y la diversi&oacute;n a la perfecci&oacute;n. Su conocimiento de buceo y seguridad, as&Iacute; como su compromiso en mantener est&aacute;ndares altos con cada curso, lo convierten en el arquetipo de la excelencia. &iexcl;No puedo recomendarlo lo suficiente!",
 				"person": "Apoorva de Nueva Zelanda"
 			},
 			"review4": {
-				"text": "Tuve la suerte de encontrarme con Guillermo, un excelente instructor que me mostró las tecnicas para desarrollar el deporte de una forma segura, pero aún más importante, me mostró su pasión por este mundo submarino.",
+				"text": "Tuve la suerte de encontrarme con Guillermo, un excelente instructor que me mostr&oacute; las t&eacute;cnicas para desarrollar el deporte de una forma segura, pero a&iexcl;n m&aacute;s importante, me mostr&oacute; su pasi&oacute;n por este mundo submarino.",
 				"person": "Juan Gabriel de Colombia"
 			},
 			"review5": {
-				"text": "Guillermo es un instructor increíble. Es muy profesional, tranquilo y paciente, ¡pero también divertido! Me hizo sentir cómodo en todas las situaciones. ¡Él tiene un gran conocimiento y sabe cómo compartirlo! ¡Yo era la única persona que tomaba el curso en ese momento, así que toda la experiencia fue muy personal!",
+				"text": "Guillermo es un instructor incre&Iacute;ble. Es muy profesional, tranquilo y paciente, &iexcl;pero tambi&eacute;n divertido! Me hizo sentir c&oacute;moda en todas las situaciones. &iexcl;&eacute;l tiene un gran conocimiento y sabe c&oacute;mo compartirlo! &iexcl;Yo era la &iexcl;nica persona que tomaba el curso en ese momento, as&Iacute; que toda la experiencia fue muy personal!",
 				"person": "Sara de Polonia"
 			},
 			"review6": {
-				"text": "Cuando el submarino no es su territorio, saber que alguien le devolvió la espalda es un factor clave, ¡Guillermo fue mi protector y no puedo agradecer lo suficiente! <br/> ¡Muy recomendado!",
+				"text": "Como el mundo submarino no es nuestro territorio,  es un factor clave saber que alguien le cuida las espaldas, &iexcl;Guillermo fue mi protector y no puedo agradecer lo suficiente! <br/> &iexcl;Muy recomendado!",
 				"person": "Gal de EE.UU."
 			}
 		}
 	},
 	"contact": {
-		"address": "Direccíon",
+		"address": "Direcci&oacute;n",
 		"contacts": "Contactos",
 		"mail": "Correo electronico",
 		"social": "Social",
 		"form": {
 			"title": "Contactarnos",
-			"description": "Envíenos una línea del formulario a continuación y nos comunicaremos con usted tan pronto como podamos.",
-			"name": "Your name",
-			"email": "Your email",
-			"comment": "Write comment here...",
+			"description": "Env&Iacute;enos una l&Iacute;nea del formulario a continuaci&oacute;n y nos comunicaremos con usted tan pronto como podamos.",
+			"name": "Su nombre",
+			"email": "Su email",
+			"comment": "Escriba aqu&Iacute; sus comentarios...",
 			"submit": "Enviar"
 		}
 	}

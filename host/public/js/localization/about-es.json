@@ -4,26 +4,26 @@
 		"environment": "Medio ambiente",
 		"about": "Sobre nosotros",
 		"courses": "Cursos",
-		"gallery": "Galería",
+		"gallery": "Galer&iacute;a",
 		"contact": "Contacto",
 		"language": "Idioma"
 	},
 	"footer": {
-		"findus": "Find us",
-		"slogan":"The best PADI Dive Center in town!",
-		"contact":"You can reach us through phone, mail and social media."
+		"findus": "Encu&eacute;ntranos",
+		"slogan":"&iexcl;El mejor centro de buceo de la ciudad!",
+		"contact":"Cont&aacute;ctenos por tel&eacute;fono, mail y redes sociales."
 	},
 	"languages": {
-		"dutch": "Holandés",
-		"english": "Inglés",
-		"spanish": "Español",
-		"german": "Aleman",
-		"french": "Francés",
-		"portugese": "Portugés"
+		"dutch": "Holand&eacute;s",
+		"english": "Ingl&eacute;s",
+		"spanish": "Espa&ntilde;ol",
+		"german": "Alem&aacute;n",
+		"french": "Franc&eacute;s",
+		"portugese": "Portug&eacute;s"
 	},
-	"intro": "Centro de buceo PADI. Contamos con los profesionales mejor calificados para brindarle el mejor servicio, con los más altos estándares de calidad.Le acompañaremos en toda su aventura para hacer del buceo la experiencia más divertida de su vida.En Coveñas Diving Co podrá hacer desde sus primeras experiencias bajo el agua, con el programa Discover Scuba Diving, hasta llegar a los cursos de liderazgo."	,
+	"intro": "Centro de buceo. Contamos con los profesionales mejor calificados para brindarle el mejor servicio, con los m&aacute;s altos est&aacute;ndares de calidad.Le acompa&ntilde;aremos en toda su aventura para hacer del buceo la experiencia m&aacute;s divertida de su vida.En Cove&ntilde;as Diving Co podr&aacute; hacer desde sus primeras experiencias bajo el agua, con el programa Discover Scuba Diving, hasta llegar a los cursos de liderazgo."	,
 	"specialties":{
-		"title": "Specialties",
+		"title": "Especialidades",
 		"specialty1": "AWARE Coral Reef Conservation",
 		"specialty2": "AWARE Shark Conservation",
 		"specialty3": "Altitude Instructor",
@@ -50,21 +50,21 @@
 		"specialty24": "Wreck Instructor"
 	},	
 	"team": {
-		"intro": "Meet the team",
+		"intro": "Conozca al equipo",
 		"guillermo": {
-			"name": "Guillermo Cámara",
+			"name": "Guillermo C&aacute;mara",
 			"title": "PADI Master Instructor",
-			"description":"Experience of more than 10 years working in Spain, Greece, Brazil and Colombia. Issued more than 800 certifications."
+			"description":"Experiencia de m&aacute;s de 10 a&ntilde;os trabajando en Espa&ntilde;a, Grecias, Brasil y Colombia. Con m&aacute;s de 800 certificaciones emitidas."
 		},
 		"alejandro": {
-			"name": "Alejandro Marín",
+			"name": "Alejandro Mar&iacute;n",
 			"title": "Dive Master",
-			"description":"A specialist in diving for more than 15 years, a profession that has made it compatible with his passion for the underwater world. He has dived all over the world, a great connoisseur of the Caribbean Sea, but he has also had the opportunity to immerse himself in the Pacific and the Atlantic."
+			"description":"M&eacute;dico especialista en buceo por m&aacute;s de 15 a&ntilde;os, una profesi&oacute;n que ha sabido compatibilizar con su pasi&oacute;n por el buceo. Ha buceado por todo el mundo, gran conocimiento del Caribe, pero tambi&eacute;n ha tenido la oportunidad de sumergirse en el Pac&iacute;fico y el Atl&aacute;ntico."
 		},
 		"ana": {
 			"name": "Ana Caicedo",
-			"title": "Administration",
-			"description":"Administrator and adviser for underwater ecology, responsible for the contribution to the conservation of the environment."
+			"title": "Administraci&oacute;n",
+			"description":"Administradora y asesora para ecolog&iacute;a submarina, encargada de la contribuci&oacute;n para la conservaci&oacute;n del medio ambiente."
 		}
 	},
 	"testimonials": {
@@ -72,32 +72,32 @@
 		"testimonial1": {
 			"name":"Mariana",
 			"country":"Denmark",
-			"review":"<p>I did my Discover with Guille and cannot recommend him enough! Both during the study part and the practical part in the pool he was extremely professional and reassuring which made it easy for me to relax and just have fun. On top of that he’s a cool and genuine guy that will make sure you have a great experience. </p><p>If you’re looking for a laidback, professional scuba instructor, Guille is your guy! </p>"
+			"review":"<p>Durante la parte de estudio y la parte pr&aacute;ctica en la piscina, Guillermo fue extremadamente profesional y tranquilizador, lo que me facilit&oacute; el descanso y la diversi&oacute;n. Adem&aacute;s de eso, es un tipo genial y genuino que se asegurar&aacute; de que tengas una gran experiencia.</p>"
 		},
 		"testimonial2": {
 			"name":"Leo",
 			"country":"Argentina",
-			"review":"Fui a Colombia a realizar mi curso y certificación en Open Waters. Por recomendación me puse en contacto con Guillermo. Me dió mucha confianza y seguridad en la charla previa. Su buen humor y predisposición hicieron que esas jordanas sean increíbles."
+			"review":"Fui a Colombia a realizar mi curso y certificaci&oacute;n en Open Waters. Por recomendaci&oacute;n me puse en contacto con Guillermo. Me di&oacute; mucha confianza y seguridad en la charla previa. Su buen humor y predisposici&oacute;n hicieron que esas jordanas sean incre&iacute;bles."
 		},
 		"testimonial3": {
 			"name":"Apoorva",
 			"country":"New Zealand",
-			"review":"<p>Guillermo was the dive master for my open water course in Colombia and I cannot praise him enough. He has an innate ability to calm people around him and make you feel safe and supported. I almost quit during my practice sessions in the pool because the thought of removing my mask and reapplying it terrified me! </p><p>Guillermo was patient, reassuring and encouraging and the single reason I persisted. Guillermo manages to balance professionalism and fun perfectly. His knowledge of diving and safety as well as his commitment to maintaining high standards with every course makes him the epitome of excellence. I cannot recommend him enough!</p>"
+			"review":"<p>Guillermo logra equilibrar la profesionalidad y la diversi&oacute;n a la perfecci&oacute;n. Su conocimiento de buceo y seguridad, as&iacute; como su compromiso en mantener est&aacute;ndares altos con cada curso, lo convierten en el arquetipo de la excelencia. &iexcl;No puedo recomendarlo lo suficiente!</p>"
 		},
 		"testimonial4": {
 			"name":"Juan Gabriel",
 			"country":"Colombia",
-			"review":"<p>Tuve la suerte de encontrarme con Guillermo, un excelente instructor que me mostró las tecnicas para desarrollar el deporte de una forma segura, pero aún más importante, me mostró su pasión por este mundo submarino.Sus grandes capacidades para transmitir sus conocimientos y su basta experiencia.Hoy en día, gracias a su acompañamiento, sus prácticos consejos y la forma en que me guío en mi proceso, puedo decir orgulloso que me convertí en instructor también, con la idea de regalarle a alguien más la oportunidad de abrir su mente y encontrar nuevas experiencias en este increíble mundo (el mundo subacuático).Como un día, el me lo regalo a mi.</p><p>Aprovecho este espacio para agradecerle sinceramente por ser mi mentor.Y para alentarlo a que continúe cambiando vidas de forma profesional pero divertida como sólo el sabe hacerlo. Gracias!</p>"
+			"review":"<p>Tuve la suerte de encontrarme con Guillermo, un excelente instructor que me mostr&oacute; las tecnicas para desarrollar el deporte de una forma segura, pero a&iexcl;n m&aacute;s importante, me mostr&oacute; su pasi&oacute;n por este mundo submarino.Sus grandes capacidades para transmitir sus conocimientos y su basta experiencia.Hoy en d&iacute;a, gracias a su acompa&ntilde;amiento, sus pr&aacute;cticos consejos y la forma en que me gu&iacute;o en mi proceso, puedo decir orgulloso que me convert&iacute; en instructor tambi&eacute;n, con la idea de regalarle a alguien m&aacute;s la oportunidad de abrir su mente y encontrar nuevas experiencias en este incre&iacute;ble mundo (el mundo subacu&aacute;tico).Como un d&iacute;a, el me lo regalo a mi.</p><p>Aprovecho este espacio para agradecerle sinceramente por ser mi mentor.Y para alentarlo a que contin&iexcl;e cambiando vidas de forma profesional pero divertida como s&oacute;lo el sabe hacerlo. Gracias!</p>"
 		},
 		"testimonial5": {
 			"name":"Sara",
 			"country":"Poland",
-			"review":"Guillermo is an amazing instructor. He is very professional, calm and patient but also fun!He made me feel comfortable in every situation. He has a great knowledge and knows how to share it! His English is very good so it's easy to follow the course. I was the only person taking the course at the time so the whole experience was very personal!"
+			"review":"Guillermo es un instructor incre&iacute;ble. Es muy profesional, tranquilo y paciente, &iexcl;pero tambi&eacute;n divertido! Me hizo sentir c&oacute;moda en todas las situaciones. &iexcl;&eacute;l tiene un gran conocimiento y sabe c&oacute;mo compartirlo! &iexcl;Yo era la &iexcl;nica persona que tomaba el curso en ese momento, as&iacute; que toda la experiencia fue muy personal!"
 		},
 		"testimonial6": {
 			"name":"Gal",
 			"country":"Poland",
-			"review":"<p>I took a trip to beautiful Santa Marta, one of the main attractions in the place is the beautiful beaches and most of all the amazing underwater life. I was lucky enough that Guillermo was on the way to my hostel with his fiancé, what an amazing guy! First, he speaks English as stupid as it sounds you won't find lots of people speaking English in this town so high advantage.</p><p>He was so calm and took it very slowly explaining me exactly what to look for and kept staying close to me while we were diving.When underwater is not your territory knowing that someone got your back is a key factor, Guillermo was my guard and I can't be thankful enough! Highly recommended!</p>"
+			"review":"<p>Como el mundo submarino no es nuestro territorio,  es un factor clave saber que alguien le cuida las espaldas, &iexcl;Guillermo fue mi protector y no puedo agradecer lo suficiente! <br/> &iexcl;Muy recomendado!</p>"
 		}
 	}	
 }
