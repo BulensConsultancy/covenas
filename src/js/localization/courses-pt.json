@@ -6,38 +6,37 @@
 		"courses": "Cursos",
 		"gallery": "Galeria",
 		"contact": "Contato",
-		"language": "Língua"
+		"language": "L&iacute;ngua"
 	},
 	"footer": {
-		"findus": "Find us",
-		"slogan":"The best PADI Dive Center in town!",
-		"contact":"You can reach us through phone, mail and social media."
+		"slogan":"O melhor centro de mergulho da cidade!",
+		"contact":"Contatenos por telefone, mail e redes sociais."
 	},
 	"languages": {
 		"dutch": "holand&ecirc;s",
 		"english": "Ingl&ecirc;s",
 		"spanish": "espanhol",
-		"german": "alemão",
+		"german": "alem&atilde;o",
 		"french": "franc&ecirc;s",
 		"portugese": "portugu&ecirc;s"
 	},
 	"courses": {
 		"category1": {
-			"title":"First experience",
+			"title":"Primeira experi&ecirc;ncia",
 			"subtitle":"Discover scuba diving",
-			"text":"<p>With the PADI Discover Scuba Diving experience, feel what it is like breathing underwater. If you don't have enough time or you just want clear all your doubts, this is your programme!Discover how easy it is to dive and you will, for granted, want to keep on with the underwater adventure.</p><p>This is not a certification programme, it is just an experience followed very close by the Instructor, but it can be used as a credit for your certification within a month.</p>"
+			"text":"<p>Com a experi&ecirc;ncia PADI Discover Scuba Diving, senta como &eacute; respirar baixo a &aacute;gua. Se voce n&atilde;o tem tempo bastante ou simplesmente quer tirar todas suas d&uacute;vidas, este &eacute; o seu programa! Descubra como &eacute; f&aacute;cil mergulhar e de certeza vai quer continuar com a aventura em baixo da &aacute;gua. Este n&atilde;o &eacute; um curso de certifica&ccedil;&atilde;o, &eacute; uma experi&ecirc;ncia seguida por perto pelo instrutor, mas pode ser usado como cr&eacute;dito para obter sua certifica&ccedil;&atilde;o por um mes.</p>"
 		},
 		"category2": {
-			"title":"Get your certification",
+			"title":"Obtenha sua certifi&ccedil;&atilde;o",
 			"subtitle":"PADI Open Water",
-			"text":"<p>With the PADI Open Water Diver course, in a few days you will be enjoying in the underwater world. As a PADI Open Water Diver, you have the most recognized and respected certification in the world and you will be free to dive with your buddy.During the course, you will learn the basics about diving, the equipment and diving techniques. You will get your certification after completing five confined water sessions, knowldege reviews and doing four open water dives (sea). If you have already had a  PADI Discover Scuba Diving experience or you are a certified PADI Scuba Diver check how to use this for to get the whole certification.</p><p>The course includes all the necesary didactic matherial (book, tables, LogBook), equipment rental and certification.</p>"
+			"text":"<p>Com o curso PADI Open Water Diver, em s&oacute; ums d&iacute;as voc&ecirc; estar&aacute; disfrutando do mundo submarino. Como PADI Open Water Diver, voc&ecirc; obtem a certifica&ccedil;&atilde;o mais reconhecida e respeitado do mundo, e voc&ecirc; poder&aacute; mergulhar com sua dupla de mergulho. Durante o curso, aprender&aacute; os conceitos mais b&aacute;sicos do mergulho, o equipamento e as t&eacute;qunicas de mergulho. Obtendr&aacute; sua certifica&ccedil;&atilde;o dep&oacute;is de completar cinco sec&ccedil;&otilde;es de piscina, desenvolvimento de conhecimentos e quatro mergulhos em aguas abertas (mar). Se voc&ecirc; j&aacute; fez a experi&ecirc;ncia PADI Discover Scuba Diving ou &eacute; um mergulhador PADI Scuba Diver certificado, confira como pode obter a certifica&ccedil;&atilde;o completa. O curso inclui o material did&aacute;ctico precisado (livro, tabelas, LogBook), aluguel do equipamento e certifica&ccedil;&atilde;o.</p>"
 		},
 		"category3": {
-			"title":"Continue the adventure",
-			"subtitle":"Continue to expand your skills by taking more advanced courses. Click on one of the tabs to learn more.",
+			"title":"Continuar a aventura",
+			"subtitle":"Continue aumentando suas habilidades tomando mais cursos avan&ccedil;ados. Clicke numa pestanha para saber mais.",
 			"advanced":{
 				"title": "PADI Advanced Open Water",
-				"intro": "Would you like to try underwater photography? What about diving in ship wrecks? This is your chance because there are three dives your choice plus two mandatory (deep + navigation) and start feeling more comfortable underwater. PADI Advance Open Water Diver helps you to get more from scuba diving with this new diving adventures. It is a great opportunity to develop your diving skills and be more confident.",
+				"intro": "Gostr&iacute;a de fazer fotograf&iacute;as submarinas? o ent&atilde;o mergulhar em barcos afondados? esta &eacute; a oportunidade porque vai fazer tr&ecirc;s mergulhos a sua escolha e dois obrigat&oacute;rios (profundo + navega&ccedil;&atilde;o) e vai come&ccedil;ar se sentir mais comfortavel em baixo da &aacute;gua.",
 				"adventures": {
 					"title":"Adventures:",
 					"item1":"AWARE-Fish Identification",
@@ -59,11 +58,11 @@
 			},
 			"rescue":{
 				"title":"PADI Rescue Diver",
-				"text":"With the PADI Rescue Diver you will get more knowledge and experience, you will learn to look beyond yourself and consider the well-being and safety of the other divers. This is a serious course, but it is also a funny way to improve your confidence and it is a must if you want to go on to Pro levels. The training as a Rescue Diver prepares you to prevent problems and, if it is necessary, face dive emergencies working in different diving scenarios and providing first aid."
+				"text":"Com o curso PADI Rescue Diver aumentar&aacute; os conhecimentos e a sua experi&ecirc;ncia, aprender&aacute; a olhar al&eacute;m de voc&ecirc; e considerar o bem-estar e a seguran&ccedil;a dos outros mergulhadores. Este &eacute; um curso serio, mas &eacute; tamb&eacute;m uma maneira engra&ccedil;ada de aumentar sua confian&ccedil;a e &eacute; obrigatorio para atender aos cursos profissionais. O treino de Rescue Diver lhe prepara para prevenir problemas e, se for necess&aacute;rio, interferir com as emerg&ecirc;ncias do mergulho em diferentes cen&aacute;rios e doando primeiros socorros."
 			},
 			"specialties":{
-				"title": "Specialties",
-				"intro":"If you are interested in getting new experiences from scuba diving and would like to learn one of this specialities, ask about them, we will help you to get them.",
+				"title": "Especialidades",
+				"intro":"Se tem interesse em receber novas experi&ecirc;ncias do mergulho e quer tomar alguma de estas especialidades, n&oacute;s ajudaremos para as obter",
 				"item1":"AWARE Coral Reef Conservation",
 				"item2":"AWARE Shark Conservation",
 				"item3":"Altitude",
@@ -91,27 +90,27 @@
 			}
 		},
 		"category4": {
-			"title":"Go Pro",
+			"title":"Virar profissional",
 			"subtitle":"Dive Master",
-			"text":"First step on your diving career! You will learn more about diving theory and improve your demostration skills while you become a scuba diving proffessional.  Your training as a PADI Divemaster also improves your leading skills as you train supervising diving activities and help instructors with real students.",
+			"text":"O primeiro passo na sua carreira de mergulho! Aprenda da teor&iacute;a do mergulho e melhore com as habilidades de demostra&ccedil;&atilde;o enquanto vira um profissional do mergulho. Seu treino como PADI Divemaster tamb&eacute;m melhora sua capacidade de lideran&ccedil;a supervisando as actividades de mergulho e ajuda ao instructor com estudantes reais.",
 			"detailed": {
 				"sub1": {
-					"title":"What can PADI Dive Masters do?",
-					"item1":"Work in local dive centres",
-					"item2":"Help PADI Instructors with students",
-					"item3":"Lead divers on their fun dives",
-					"item4":"Teach PADI Reactivate programmes for certified divers",
-					"item5":"Lead certified divers on Discover Local Diving experiences",
-					"item6":"Teach Emergency First Response after succesfuly complete an Emergency First Response instructors course",
-					"item7":"Do PADI Discover Scuba Diving programmes after becoming a DSD Leader"
+					"title":"Qu&eacute; podem fazer os PADI Divemasters?",
+					"item1":"Trabalhar em escolas de mergulho locais",
+					"item2":"Ajudar aos Instrutores PADI com seus estudantes",
+					"item3":"Liderar mergulhadores certificados em seus mergulhos locais",
+					"item4":"Ensinar o programa  PADI Reactivate para mergulhadores certificados ",
+					"item5":"Liderar mergulhadores certificados nas experi&ecirc;ncias Discover Local Diving",
+					"item6":"Ensinar Emergency First Response depois completar o curso para instrutores Emergency First Response",
+					"item7":" Fazer programas PADI Discover Scuba Diving depois convertir-se em um DSD Leader"
 				},
 				"sub2": {
-					"title":"What do I need to start?",
+					"title":"Qu&eacute; preciso para come&ccedil;ar?",
 					"item1":"PADI Advanced Open Water Diver",
 					"item2":"PADI Rescue Diver",
-					"item3":"EFR (first aid)",
-					"item4":"40 registered dives ",
-					"item5":"Being more than 18 years old"			
+					"item3":"EFR (primeiros socorros)",
+					"item4":"40 mergulhos registrados",
+					"item5":"Ter, pelo menos,18 anos"			
 				}
 			}
 		}

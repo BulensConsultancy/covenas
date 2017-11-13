@@ -1,92 +1,91 @@
 {
 	"nav": {
-		"home": "Casa",
+		"home": "Home",
 		"environment": "Meio Ambiente",
 		"about": "Sobre n&oacute;s",
 		"courses": "Cursos",
 		"gallery": "Galeria",
 		"contact": "Contato",
-		"language": "Língua"
+		"language": "L&iacute;ngua"
 	},
 	"footer": {
-		"findus": "Find us",
-		"slogan":"The best PADI Dive Center in town!",
-		"contact":"You can reach us through phone, mail and social media."
+		"slogan":"O melhor centro de mergulho da cidade!",
+		"contact":"Contatenos por telefone, mail e redes sociais."
 	},
 	"languages": {
 		"dutch": "holand&ecirc;s",
 		"english": "Ingl&ecirc;s",
 		"spanish": "espanhol",
-		"german": "alemão",
+		"german": "alem&atilde;o",
 		"french": "franc&ecirc;s",
 		"portugese": "portugu&ecirc;s"
 	},
 	"slides": {
-		"slide1": "Descubra mergulho autônomo",
+		"slide1": "Descubra o mergulho",
 		"slide2": "O melhor centro de mergulho da cidade!"
 	},
 	"about": {
 		"title": "Sobre n&oacute;s",
-		"section1": "Na Coveñas Diving, n&oacute;s adoramos mergulhar e quer compartilhar esta incrível região com voc&ecirc;! Nossos instrutores experientes são altamente treinados, conscientes da segurança e entusiasmados por fazer com que seja uma &oacute;tima experi&ecirc;ncia de mergulho para voc&ecirc;, seja voc&ecirc; um mergulhador experiente ou um iniciante",
-		"section2": "Aqui, mergulhamos em pequenos grupos de níveis de experi&ecirc;ncia semelhantes (grupos de 4 (ou menos) mergulhadores por instrutor) para maximizar a segurança e a diversão!"
+		"section1": "Na Cove&ntilde;as Diving Co, n&oacute;s adoramos mergulhar e queremos compartilhar esta incr&iacute;vel regi&atilde;o com voc&ecirc;! Nossos instrutores s&atilde;o altamente treinados, com uma grande experi&ecirc;ncia , conscientes da seguran&ccedil;a e entusiasmados por fazer com que seja uma &oacute;tima experi&ecirc;ncia de mergulho para voc&ecirc;, seja voc&ecirc; um mergulhador experiente ou um iniciante",
+		"section2": "Mergulhamos em pequenos grupos com n&iacute;veis de experi&ecirc;ncia semelhantes (grupos de 4 (ou menos) mergulhadores por instrutor) para maximizar a seguran&ccedil;a e a divers&atilde;o!"
 	},
 	"services": {
-		"title": "Nossos serviços",
+		"title": "Nossos servi&ccedil;os",
 		"service1": {
 			"title": "PADI Training",
-			"description": "Se voc&ecirc; é novo ou experiente, temos cursos que aguardam novas aventuras!"
+			"description": "Se voc&ecirc; &eacute; novo ou experiente, temos cursos que lhe oferecem novas aventuras!"
 		},
 		"service2": {
 			"title": "Viagens personalizadas",
-			"description": "N&oacute;s podemos adaptar viagens a seu gosto!"
+			"description": "N&oacute;s podemos adaptar viagens ao seu gosto!"
 		},
 		"service3": {
 			"title": "Fun dives",
-			"description": "N&oacute;s vamos levá-lo para os melhores locais de mergulho na área!"
+			"description": "Vamos lev&aacute;-lo para os melhores locais de mergulho na &aacute;rea!"
 		},
 		"service4": {
-			"title": "Ir profissional",
+			"title": "Virar profissional",
 			"description": "Pronto para ser um dive master?"
 		}
 	},
 	"testimonials": {
-		"title": "Avaliações de Clientes",
+		"title": "Avalia&ccedil;&otilde;es de Clientes",
 		"description": "Veja o que alguns de nossos clientes t&ecirc;m a dizer sobre n&oacute;s",
 		"reviews": {
 			"review1": {
-				"text": "Durante a parte de estudo e a parte prática da piscina Guillermo foi extremamente profissional e reconfortante, o que facilitou a relaxação e simplesmente me diverti. Além disso, ele é um cara legal e genuíno que irá garantir que voc&ecirc; tenha uma &oacute;tima experi&ecirc;ncia.",
+				"text": "Durante a parte de estudo e a parte pr&aacute;tica da piscina Guillermo foi extremamente profissional e reconfortante, o que facilitou me relaxar e simplesmente me diverti. Al&eacute;m disso, ele &eacute; um cara legal e genu&iacute;no que ir&aacute; garantir que voc&ecirc; tenha uma &oacute;tima experi&ecirc;ncia.",
 				"person": "Mariana da Dinamarca"
 			},
 			"review2": {
-				"text": "Eu fui para a Colômbia para seguir meu curso e certificação em Open Waters. Por recomendação entrei em contato com Guillermo. Ele me deu muita confiança e confiança na conversa anterior. Seu bom humor e sua predisposição tornaram esses jordanos incríveis.",
+				"text": "Eu fui para a Col&otilde;mbia para seguir meu curso e certifica&ccedil;&atilde;o em Open Water. Por recomenda&ccedil;&atilde;o entrei em contato com o Guillermo. Ele me deu muita confian&ccedil;a e seguran&ccedil;a na conversa anterior. Seu bom humor e sua predisposi&ccedil;&atilde;o tornaram esses d&iacute;as incr&iacute;veis.",
 				"person": "Leo da Argentina"
 			},
 			"review3": {
-				"text": "Eu fui para a Colômbia para seguir meu curso e certificação em Open Waters. Por recomendação entrei em contato com Guillermo. Ele me deu muita confiança e confiança na conversa anterior. Seu bom humor e sua predisposição tornaram esses jordanos incríveis.",
-				"person": "Apoorva da Nova Zelândia"
+				"text": "O Guillermo pode equilibrar profesionalidade e divers&atilde;o perfeitamente. O conhecimento de mergulho dele e a seguran&ccedil;a, como tamb&eacute;m seu compromisso mantendo padr&otilde;es altos com cada curso, ele transforma isto no arqu&eacute;tipo da excel&ecirc;ncia. N&atilde;o posso recomendar bastante!",
+				"person": "Apoorva da Nova Zel&acirc;ndia"
 			},
 			"review4": {
-				"text": "Eu fui para a Colômbia para seguir meu curso e certificação em Open Waters. Por recomendação entrei em contato com Guillermo. Ele me deu muita confiança e confiança na conversa anterior. Seu bom humor e sua predisposição tornaram esses jordanos incríveis.",
-				"person": "Juan Gabriel da Colômbia"
+				"text": "Eu tive a sorte de me encontrar com o Guillermo, um instrutor excelente que me mostrou as t&eacute;cnicas para desenvolver o esporte com seguran&ccedil;a, mas at&eacute; mesmo modo mais importante, me mostrou a paix&atilde;o dele por este mundo submarino.",
+				"person": "Juan Gabriel da Col&otilde;mbia"
 			},
 			"review5": {
-				"text": "Guillermo é um incrível instrutor. Ele é muito profissional, calmo e paciente, mas também divertido! Ele me fez sentir confortável em todas as situações. Ele tem um grande conhecimento e sabe como compartilhá-lo! Eu era a única pessoa a seguir o curso no momento, então toda a experi&ecirc;ncia era muito pessoal!",
-				"person": "Sara da Polônia"
+				"text": "O Guillermo &eacute; um incr&iacute;vel instrutor. Ele &eacute; muito profissional, calmo e paciente, mas tamb&eacute;m divertido! Ele me fez sentir confort&aacute;vel em todas as situa&ccedil;&otilde;es. Ele tem um grande conhecimento e sabe como compartilh&aacute;-lo! Eu era a &uacute;nica pessoa a seguir o curso no momento, ent&atilde;o toda a experi&ecirc;ncia era muito pessoal!",
+				"person": "Sara da Pol&otilde;nia"
 			},
 			"review6": {
-				"text": "Quando debaixo d'água não é seu territ&oacute;rio sabendo que alguém conseguiu suas costas é um fator-chave, Guillermo foi minha guarda e não posso agradecer o suficiente! <br/> Altamente recomendado!",
+				"text": "Quando est&aacute; em baixo d'&aacute;gua, n&atilde;o &eacute; seu territ&oacute;rio. Saber que algu&eacute;m est&aacute; cobrendo suas costas &eacute; um fator-chave, Guillermo foi minha guarda e n&atilde;o posso agradecer o suficiente! <br/> Altamente recomendado!",
 				"person": "Gal da EUA"
 			}
 		}
 	},
 	"contact": {
-		"address": "Endereço",
+		"address": "Endere&ccedil;o",
 		"contacts": "Contatos",
 		"mail": "Mail",
 		"social": "Social",
 		"form": {
 			"title": "Contate-Nos",
-			"description": "Deixe-nos uma linha do formulário abaixo e n&oacute;s retornaremos para voc&ecirc; assim que pudermos.",
+			"description": "Deixe-nos uma linha do formul&aacute;rio abaixo e n&oacute;s retornaremos para voc&ecirc; assim que pudermos.",
 			"name": "Your name",
 			"email": "Your email",
 			"comment": "Write comment here...",

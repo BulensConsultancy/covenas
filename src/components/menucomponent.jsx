@@ -38,10 +38,8 @@ class MenuComponent extends React.Component {
 									<ul className="dropdown-menu c-menu-type-classic c-pull-left">										
 										<li><a id="lngSpanish"><img src="assets/img/flags/Spain.png" /> <span data-localize="languages.spanish"></span></a></li>									
 										<li><a id="lngEnglish"><img src="assets/img/flags/UK.png" /> <span data-localize="languages.english"></span></a></li>									
-										<li><a id="lngPortugese"><img src="assets/img/flags/Brazil.png" /> <span data-localize="languages.portugese"></span></a></li>
-										<li><a id="lngFrench"><img src="assets/img/flags/France.png" /> <span data-localize="languages.french"></span></a></li>
-										<li><a id="lngDutch"><img src="assets/img/flags/Netherlands.png" /> <span data-localize="languages.dutch"></span></a></li>
-										<li><a id="lngGerman"><img src="assets/img/flags/Germany.png" /> <span data-localize="languages.german"></span></a></li>
+										<li><a id="lngPortugese"><img src="assets/img/flags/Brazil.png" /> <span data-localize="languages.portugese"></span></a></li>										
+										<li><a id="lngDutch"><img src="assets/img/flags/Netherlands.png" /> <span data-localize="languages.dutch"></span></a></li>								
 									</ul>																					
 								 </li>
 							</ul>

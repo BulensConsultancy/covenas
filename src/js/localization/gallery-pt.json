@@ -1,23 +1,22 @@
 {
 	"nav": {
-		"home": "Casa",
+		"home": "Home",
 		"environment": "Meio Ambiente",
 		"about": "Sobre n&oacute;s",
 		"courses": "Cursos",
 		"gallery": "Galeria",
 		"contact": "Contato",
-		"language": "Língua"
+		"language": "L&iacute;ngua"
 	},
 	"footer": {
-		"findus": "Find us",
-		"slogan":"The best PADI Dive Center in town!",
-		"contact":"You can reach us through phone, mail and social media."
+		"slogan":"O melhor centro de mergulho da cidade!",
+		"contact":"Cont&aacute;tenos por telefone, mail e redes sociais."
 	},
 	"languages": {
 		"dutch": "holand&ecirc;s",
 		"english": "Ingl&ecirc;s",
 		"spanish": "espanhol",
-		"german": "alemão",
+		"german": "alem&atilde;o",
 		"french": "franc&ecirc;s",
 		"portugese": "portugu&ecirc;s"
 	}	
