@@ -9,9 +9,9 @@
 		"language": "Langue"
 	},
 	"footer": {
-		"findus": "Find us",
-		"slogan":"The best PADI Dive Center in town!",
-		"contact":"You can reach us through phone, mail and social media."
+		"findus": "Trouvez nous",
+		"slogan":"Le meilleur centre de plong&eacute;e de la ville!",
+		"contact":"Vous pouvez nous localiser par t&eacute;l&eacute;phone, courrier et r&eacute;seaux sociaux."
 	},
 	"languages": {
 		"dutch": "n&eacute;&eacute;rlandais",
@@ -29,9 +29,9 @@
 		"form": {
 			"title": "Contactez nous",
 			"description": "Envoyez-nous une ligne du formulaire ci-dessous et nous vous r&eacute;pondrons d&egrave;s que possible.",
-			"name": "Your name",
-			"email": "Your email",
-			"comment": "Write comment here...",
+			"name": "Votre nom",
+			"email": "Votre email",
+			"comment": "Ecrire un commentaire ici...",
 			"submit": "Envoyer"
 		}
 	}

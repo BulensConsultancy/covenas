@@ -9,9 +9,9 @@
 		"language": "Langue"
 	},
 	"footer": {
-		"findus": "Find us",
-		"slogan":"The best PADI Dive Center in town!",
-		"contact":"You can reach us through phone, mail and social media."
+		"findus": "Trouvez nous",
+		"slogan":"Le meilleur centre de plong&eacute;e de la ville!",
+		"contact":"Vous pouvez nous localiser par t&eacute;l&eacute;phone, courrier et r&eacute;seaux sociaux."
 	},
 	"languages": {
 		"dutch": "n&eacute;&eacute;rlandais",
@@ -22,8 +22,8 @@
 		"portugese": "portugais"
 	},
 	"tips": {
-		"aware":"With all the certifications issued, we make a donation to <b><a href='http://projectaware.org' target='_blank'>Project AWARE</a></b>, an independent, non profit organization with the aim to protect and care about the marine enviroment. Moreover, during the courses and in the dives we put a special emphasis on responsible behavior, following the 10 tips for responsible divers and organizing beach cleanups. Compromised with being an autosustainable company, we always try to reduce debris. One way to achieve this is by giving our students digital books rather than paper.",
-		"intro":"Here are ten tips for divers to protect the ocean planet:",
+		"aware":"Avec toutes les certifications &eacute;mises, nous faisons une donation &agrave; <b><a href='http://projectaware.org' target='_blank'>Project AWARE</a></b>, une organisation ind&eacute;pendante &agrave; but non lucratif dans le objetive de prot&eacute;ger et de prendre soin de l'environnement marin. De plus, pendant les cours et les plong&eacute;es, nous mettons un accent particulier sur le comportement responsable, en suivant les 10 conseils pour les plongeurs responsables et en organisant des nettoyages de plages. Compromis en &eacute;tant une entreprise autosupportable, nous essayons toujours de r&eacute;duire les d&eacute;chets. Une fa&ccedil;on d'y parvenir est de donner &agrave; nos &eacute;tudiants des livres digital plut&ocirc;t que du papier.",
+		"intro":"Voici dix conseils pour les plongeurs pour prot&eacute;ger la plan&egrave;te oc&eacute;anique:",
 		"tip1": {
 			"title": "Soyez un expert en flottabilit&eacute;",
 			"text":"Les plantes et les animaux sous-marins sont plus fragiles qu'ils ne le paraissent. Le glissement d'une nageoire, la bosse de votre appareil photo ou m&ecirc;me un contact peuvent d&eacute;truire des d&eacute;cennies de croissance corallienne, endommager une plante ou nuire &Agrave; un animal. Rationalisez votre &eacute;quipement de plong&eacute;e et de photo, gardez vos comp&eacute;tences en plong&eacute;e, perfectionnez vos techniques de photographie sous-marine et continuez votre formation de plong&eacute;e pour peaufiner vos comp&eacute;tences. Soyez toujours conscient de votre corps, du mat&eacute;riel de plong&eacute;e et de l'&eacute;quipement photo pour &eacute;viter tout contact avec l'environnement naturel."
@@ -46,7 +46,7 @@
 		},
 		"tip6": {
 			"title": "Faire des choix de fruits de mer responsables",
-			"text":"La surp&ecirc;che entraîne le d&eacute;clin des esp&egrave;ces tandis que les pratiques de p&ecirc;che nuisibles endommagent et polluent les &eacute;cosyst&egrave;mes sous-marins. Vous jouez un rôle essentiel en tant que consommateur. Si les fruits de mer font partie de votre s&eacute;lection de repas, assurez-vous de choisir des esp&egrave;ces d'origine durable et encouragez les autres, y compris les restaurants et les commer&ccedil;ants, &Agrave; faire de m&ecirc;me."
+			"text":"La surp&ecirc;che entra&icirc;ne le d&eacute;clin des esp&egrave;ces tandis que les pratiques de p&ecirc;che nuisibles endommagent et polluent les &eacute;cosyst&egrave;mes sous-marins. Vous jouez un r&ocirc;le essentiel en tant que consommateur. Si les fruits de mer font partie de votre s&eacute;lection de repas, assurez-vous de choisir des esp&egrave;ces d'origine durable et encouragez les autres, y compris les restaurants et les commer&ccedil;ants, &Agrave; faire de m&ecirc;me."
 		},
 		"tip7": {
 			"title": "Passer &Agrave; l'action",

@@ -1,4 +1,4 @@
-{
+﻿{
 	"nav": {
 		"home": "Accueil",
 		"environment": "Environment",
@@ -9,9 +9,9 @@
 		"language": "Langue"
 	},
 	"footer": {
-		"findus": "Find us",
-		"slogan":"The best PADI Dive Center in town!",
-		"contact":"You can reach us through phone, mail and social media."
+		"findus": "Trouvez nous",
+		"slogan":"Le meilleur centre de plong&eacute;e de la ville!",
+		"contact":"Vous pouvez nous localiser par t&eacute;l&eacute;phone, courrier et r&eacute;seaux sociaux."
 	},
 	"languages": {
 		"dutch": "n&eacute;&eacute;rlandais",
@@ -27,7 +27,7 @@
 	},
 	"about": {
 		"title": "&Agrave; propos de nous",
-		"section1": "Chez Coveñas Diving, nous adorons plonger et voulons partager cette r&eacute;gion incroyable avec vous! Nos instructeurs exp&eacute;riment&eacute;s sont hautement qualifi&eacute;s, soucieux de leur s&eacute;curit&eacute; et enthousiastes de faire de cette exp&eacute;rience de plong&eacute;e une excellente exp&eacute;rience, que vous soyez un plongeur exp&eacute;riment&eacute; ou un d&eacute;butant.",
+		"section1": "Chez Cove&ntilde;as Diving, nous adorons plonger et voulons partager cette r&eacute;gion incroyable avec vous! Nos instructeurs exp&eacute;riment&eacute;s sont hautement qualifi&eacute;s, soucieux de leur s&eacute;curit&eacute; et enthousiastes de faire de cette exp&eacute;rience de plong&eacute;e une excellente exp&eacute;rience, que vous soyez un plongeur exp&eacute;riment&eacute; ou un d&eacute;butant.",
 		"section2": "Ici, nous plongons dans de petits groupes de niveaux d'exp&eacute;rience similaires (groupes de 4 (ou moins) plongeurs par instructeur) pour maximiser la s&eacute;curit&eacute; et le plaisir!"
 	},
 	"services": {
@@ -46,7 +46,7 @@
 		},
 		"service4": {
 			"title": "Aller professionnel",
-			"description": "Prêt &Agrave; être un dive master?"
+			"description": "Pr&ecirc;t &Agrave; &ecirc;tre un dive master?"
 		}
 	},
 	"testimonials": {
@@ -54,7 +54,7 @@
 		"description": "Voyez ce que certains de nos clients ont &Agrave; nous dire",
 		"reviews": {
 			"review1": {
-				"text": "Pendant la partie &eacute;tude et la partie pratique dans la piscine, Guillermo &eacute;tait extrêmement professionnel et rassurant, ce qui m'a permis de me d&eacute;tendre et de m'amuser. En plus de cela, il est un gars cool et authentique qui va s'assurer que vous avez une exp&eacute;rience formidable.",
+				"text": "Pendant la partie &eacute;tude et la partie pratique dans la piscine, Guillermo &eacute;tait extr&ecirc;mement professionnel et rassurant, ce qui m'a permis de me d&eacute;tendre et de m'amuser. En plus de cela, il est un gars cool et authentique qui va s'assurer que vous avez une exp&eacute;rience formidable.",
 				"person": "Mariana de Danemark"
 			},
 			"review2": {
@@ -62,11 +62,11 @@
 				"person": "Leo de Argentine"
 			},
 			"review3": {
-				"text": "Guillermo parvient &Agrave; &eacute;quilibrer professionnalisme et plaisir &Agrave; la perfection. Sa connaissance de la plong&eacute;e et de la s&eacute;curit&eacute; ainsi que son engagement &Agrave; maintenir des normes &eacute;lev&eacute;es &Agrave; chaque cours font de lui l'exemple même de l'excellence. Je ne peux pas le recommander assez!",
+				"text": "Guillermo parvient &Agrave; &eacute;quilibrer professionnalisme et plaisir &Agrave; la perfection. Sa connaissance de la plong&eacute;e et de la s&eacute;curit&eacute; ainsi que son engagement &Agrave; maintenir des normes &eacute;lev&eacute;es &Agrave; chaque cours font de lui l'exemple m&ecirc;me de l'excellence. Je ne peux pas le recommander assez!",
 				"person": "Apoorva de New Zealand"
 			},
 			"review4": {
-				"text": "Tuve la suerte de conontrarme &Agrave; Guillermo, un excelente instructeur que moi mostró las tecnicas para desarrollar el deporte de una forma segura, pero a más important, me mostró su pasión por este mundo submarino.",
+				"text": "J'ai eu la chance de rencontrer Guillermo, un excellent instructeur qui m'a montr&eacute; les techniques pour d&eacute;velopper le sport en toute s&eacute;curit&eacute;, mais plus important encore, il m'a montr&eacute; sa passion pour le monde sous-marin.",
 				"person": "Juan Gabriel de Colombie"
 			},
 			"review5": {
@@ -74,7 +74,7 @@
 				"person": "Sara de Pologne"
 			},
 			"review6": {
-				"text": "Quand le territoire sous-marin n'est pas votre territoire sachant que quelqu'un a pris votre dos est un facteur cl&eacute;, Guillermo &eacute;tait mon gardien et je ne peux pas être assez reconnaissant! <br/> Hautement recommand&eacute;!",
+				"text": "Quand le territoire sous-marin n'est pas votre territoire sachant que quelqu'un a pris votre dos est un facteur cl&eacute;, Guillermo &eacute;tait mon gardien et je ne peux pas &ecirc;tre assez reconnaissant! <br/> Hautement recommand&eacute;!",
 				"person": "Gal de Etats-Unis"
 			}
 		}
