@@ -21479,6 +21479,15 @@ var FooterComponent = function (_React$Component) {
 												{ href: "https://www.instagram.com/covenasdivingco", target: "_blank" },
 												_react2.default.createElement("i", { className: "fa fa-instagram" })
 											)
+										),
+										_react2.default.createElement(
+											"li",
+											null,
+											_react2.default.createElement(
+												"a",
+												{ href: "https://www.tripadvisor.com/Attraction_Review-g616329-d13199404-Reviews-Covenas_Diving_Co-Covenas_Sucre_Department.html", target: "_blank" },
+												_react2.default.createElement("i", { "class": "fa fa-tripadvisor", "aria-hidden": "true" })
+											)
 										)
 									),
 									_react2.default.createElement(
