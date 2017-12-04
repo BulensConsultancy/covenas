@@ -9,6 +9,6 @@ This is the website for Coveñas Diving Co, a PADI dive center based in Coveñas
 
 ## Getting started
 
-- Run ´npm install` in the root folder to install all the packages
+- Run `npm install` in the root folder to install all the packages
 - To run the webserver, run `node server.js`
 
