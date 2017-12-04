@@ -41,7 +41,7 @@ class FooterComponent extends React.Component {
 										<li><a href="https://www.facebook.com/Covenasdivingco/" target="_blank"><i className="fa fa-facebook"></i></a></li>							
 										<li><a href="https://www.youtube.com/channel/UCrR50DUYpghgRUn8bopKUHA" target="_blank"><i className="fa fa-youtube"></i></a></li>
 										<li><a href="https://www.instagram.com/covenasdivingco" target="_blank"><i className="fa fa-instagram"></i></a></li>
-										<li><a href="https://www.tripadvisor.com/Attraction_Review-g616329-d13199404-Reviews-Covenas_Diving_Co-Covenas_Sucre_Department.html" target="_blank"><i class="fa fa-tripadvisor" aria-hidden="true"></i></a></li>
+										<li><a href="https://www.tripadvisor.com/Attraction_Review-g616329-d13199404-Reviews-Covenas_Diving_Co-Covenas_Sucre_Department.html" target="_blank"><i className="fa fa-tripadvisor" aria-hidden="true"></i></a></li>
 									</ul>
 									<ul className="c-address">
 										<li><i className="icon-pointer c-theme-font"></i> Calle 4 # 3-85 apartamento 203, Coveñas, Sucre, Colombia</li>
