@@ -1,4 +1,4 @@
-﻿{
+{
 	"nav": {
 		"home": "Accueil",
 		"environment": "Environment",
@@ -38,7 +38,7 @@
 		},
 		"service2": {
 			"title": "Voyages personnalis&eacute;s",
-			"description": "Nous pouvons personnaliser les voyages &Agrave; votre goût!"
+			"description": "Nous pouvons personnaliser les voyages &Agrave; votre go�t!"
 		},
 		"service3": {
 			"title": "Fun dives",
